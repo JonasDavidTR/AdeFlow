@@ -1,0 +1,50 @@
+﻿<Window x:Class="FichaAdesao.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="FichaAdesão"
+        Width="500"
+        Height="500"
+        WindowStartupLocation="CenterScreen">
+
+    <Grid Margin="30">
+
+        <StackPanel
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center">
+
+            <TextBlock
+                Text="FICHA ADESÃO"
+                FontSize="30"
+                FontWeight="Bold"
+                HorizontalAlignment="Center"
+                Margin="0,0,0,5"/>
+
+            <TextBlock
+                Text="Sistema de Cadastro"
+                FontSize="16"
+                HorizontalAlignment="Center"
+                Margin="0,0,0,35"/>
+
+            <Button
+                x:Name="BtnInserirMatricula"
+                Content="🔢  Indentificar Matrículas"
+                Width="280"
+                Height="50"
+                Margin="0,0,0,15"
+                Click="BtnInserirMatricula_Click"/>
+
+            <Button
+                 x:Name="BtnFichaAdesao"
+                 Content="🔢 Ficha de Adesão"
+                 Width="280"
+                 Height="50"
+                 Click="BtnFichaAdesao_Click"/>
+
+
+
+
+        </StackPanel>
+
+    </Grid>
+
+</Window>

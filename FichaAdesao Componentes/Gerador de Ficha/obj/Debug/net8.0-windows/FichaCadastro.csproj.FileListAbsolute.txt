@@ -1,0 +1,122 @@
+C:\Sistema folha de pagamento\FichaCadastro\bin\Debug\net8.0-windows\FichaCadastro.exe
+C:\Sistema folha de pagamento\FichaCadastro\bin\Debug\net8.0-windows\FichaCadastro.deps.json
+C:\Sistema folha de pagamento\FichaCadastro\bin\Debug\net8.0-windows\FichaCadastro.runtimeconfig.json
+C:\Sistema folha de pagamento\FichaCadastro\bin\Debug\net8.0-windows\FichaCadastro.dll
+C:\Sistema folha de pagamento\FichaCadastro\bin\Debug\net8.0-windows\FichaCadastro.pdb
+C:\Sistema folha de pagamento\FichaCadastro\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Sistema folha de pagamento\FichaCadastro\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Sistema folha de pagamento\FichaCadastro\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+C:\Sistema folha de pagamento\FichaCadastro\obj\Debug\net8.0-windows\FichaCadastro.csproj.AssemblyReference.cache
+C:\Sistema folha de pagamento\FichaCadastro\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Sistema folha de pagamento\FichaCadastro\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Sistema folha de pagamento\FichaCadastro\obj\Debug\net8.0-windows\App.g.cs
+C:\Sistema folha de pagamento\FichaCadastro\obj\Debug\net8.0-windows\FichaCadastro_MarkupCompile.cache
+C:\Sistema folha de pagamento\FichaCadastro\obj\Debug\net8.0-windows\FichaCadastro.g.resources
+C:\Sistema folha de pagamento\FichaCadastro\obj\Debug\net8.0-windows\FichaCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistema folha de pagamento\FichaCadastro\obj\Debug\net8.0-windows\FichaCadastro.AssemblyInfoInputs.cache
+C:\Sistema folha de pagamento\FichaCadastro\obj\Debug\net8.0-windows\FichaCadastro.AssemblyInfo.cs
+C:\Sistema folha de pagamento\FichaCadastro\obj\Debug\net8.0-windows\FichaCadastro.csproj.CoreCompileInputs.cache
+C:\Sistema folha de pagamento\FichaCadastro\obj\Debug\net8.0-windows\FichaCad.DFEB40A2.Up2Date
+C:\Sistema folha de pagamento\FichaCadastro\obj\Debug\net8.0-windows\FichaCadastro.dll
+C:\Sistema folha de pagamento\FichaCadastro\obj\Debug\net8.0-windows\refint\FichaCadastro.dll
+C:\Sistema folha de pagamento\FichaCadastro\obj\Debug\net8.0-windows\FichaCadastro.pdb
+C:\Sistema folha de pagamento\FichaCadastro\obj\Debug\net8.0-windows\FichaCadastro.genruntimeconfig.cache
+C:\Sistema folha de pagamento\FichaCadastro\obj\Debug\net8.0-windows\ref\FichaCadastro.dll
+C:\Sistema folha de pagamento\FichaCadastro\bin\Debug\net8.0-windows\ClosedXML.dll
+C:\Sistema folha de pagamento\FichaCadastro\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+C:\Sistema folha de pagamento\FichaCadastro\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+C:\Sistema folha de pagamento\FichaCadastro\bin\Debug\net8.0-windows\RBush.dll
+C:\Sistema folha de pagamento\FichaCadastro\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Program Payroll\FichaCadastro\bin\Debug\net8.0-windows\FichaCadastro.exe
+C:\Program Payroll\FichaCadastro\bin\Debug\net8.0-windows\FichaCadastro.deps.json
+C:\Program Payroll\FichaCadastro\bin\Debug\net8.0-windows\FichaCadastro.runtimeconfig.json
+C:\Program Payroll\FichaCadastro\bin\Debug\net8.0-windows\FichaCadastro.dll
+C:\Program Payroll\FichaCadastro\bin\Debug\net8.0-windows\FichaCadastro.pdb
+C:\Program Payroll\FichaCadastro\bin\Debug\net8.0-windows\ClosedXML.dll
+C:\Program Payroll\FichaCadastro\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+C:\Program Payroll\FichaCadastro\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Program Payroll\FichaCadastro\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Program Payroll\FichaCadastro\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+C:\Program Payroll\FichaCadastro\bin\Debug\net8.0-windows\RBush.dll
+C:\Program Payroll\FichaCadastro\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Program Payroll\FichaCadastro\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+C:\Program Payroll\FichaCadastro\obj\Debug\net8.0-windows\FichaCadastro.csproj.AssemblyReference.cache
+C:\Program Payroll\FichaCadastro\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Program Payroll\FichaCadastro\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Program Payroll\FichaCadastro\obj\Debug\net8.0-windows\App.g.cs
+C:\Program Payroll\FichaCadastro\obj\Debug\net8.0-windows\FichaCadastro_MarkupCompile.cache
+C:\Program Payroll\FichaCadastro\obj\Debug\net8.0-windows\FichaCadastro.g.resources
+C:\Program Payroll\FichaCadastro\obj\Debug\net8.0-windows\FichaCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Payroll\FichaCadastro\obj\Debug\net8.0-windows\FichaCadastro.AssemblyInfoInputs.cache
+C:\Program Payroll\FichaCadastro\obj\Debug\net8.0-windows\FichaCadastro.AssemblyInfo.cs
+C:\Program Payroll\FichaCadastro\obj\Debug\net8.0-windows\FichaCadastro.csproj.CoreCompileInputs.cache
+C:\Program Payroll\FichaCadastro\obj\Debug\net8.0-windows\FichaCad.DFEB40A2.Up2Date
+C:\Program Payroll\FichaCadastro\obj\Debug\net8.0-windows\FichaCadastro.dll
+C:\Program Payroll\FichaCadastro\obj\Debug\net8.0-windows\refint\FichaCadastro.dll
+C:\Program Payroll\FichaCadastro\obj\Debug\net8.0-windows\FichaCadastro.pdb
+C:\Program Payroll\FichaCadastro\obj\Debug\net8.0-windows\FichaCadastro.genruntimeconfig.cache
+C:\Program Payroll\FichaCadastro\obj\Debug\net8.0-windows\ref\FichaCadastro.dll
+C:\Program Payroll\FichaCadastro\obj\Debug\net8.0-windows\CadastroIndividualWindow.baml
+C:\Program Payroll\FichaCadastro\obj\Debug\net8.0-windows\CadastroIndividualWindow.g.cs
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\bin\Debug\net8.0-windows\FichaCadastro.exe
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\bin\Debug\net8.0-windows\FichaCadastro.deps.json
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\bin\Debug\net8.0-windows\FichaCadastro.runtimeconfig.json
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\bin\Debug\net8.0-windows\FichaCadastro.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\bin\Debug\net8.0-windows\FichaCadastro.pdb
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\bin\Debug\net8.0-windows\ClosedXML.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\bin\Debug\net8.0-windows\RBush.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\obj\Debug\net8.0-windows\FichaCadastro.csproj.AssemblyReference.cache
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\obj\Debug\net8.0-windows\CadastroIndividualWindow.baml
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\obj\Debug\net8.0-windows\CadastroIndividualWindow.g.cs
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\obj\Debug\net8.0-windows\FichaCadastro_MarkupCompile.cache
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\obj\Debug\net8.0-windows\FichaCadastro.g.resources
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\obj\Debug\net8.0-windows\FichaCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\obj\Debug\net8.0-windows\FichaCadastro.AssemblyInfoInputs.cache
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\obj\Debug\net8.0-windows\FichaCadastro.AssemblyInfo.cs
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\obj\Debug\net8.0-windows\FichaCadastro.csproj.CoreCompileInputs.cache
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\obj\Debug\net8.0-windows\FichaCad.DFEB40A2.Up2Date
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\obj\Debug\net8.0-windows\FichaCadastro.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\obj\Debug\net8.0-windows\refint\FichaCadastro.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\obj\Debug\net8.0-windows\FichaCadastro.pdb
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\obj\Debug\net8.0-windows\FichaCadastro.genruntimeconfig.cache
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\obj\Debug\net8.0-windows\ref\FichaCadastro.dll
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\bin\Debug\net8.0-windows\FichaCadastro.exe
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\bin\Debug\net8.0-windows\FichaCadastro.deps.json
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\bin\Debug\net8.0-windows\FichaCadastro.runtimeconfig.json
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\bin\Debug\net8.0-windows\FichaCadastro.dll
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\bin\Debug\net8.0-windows\FichaCadastro.pdb
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\bin\Debug\net8.0-windows\ClosedXML.dll
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\bin\Debug\net8.0-windows\RBush.dll
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\obj\Debug\net8.0-windows\FichaCadastro.csproj.AssemblyReference.cache
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\obj\Debug\net8.0-windows\CadastroIndividualWindow.baml
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\obj\Debug\net8.0-windows\CadastroIndividualWindow.g.cs
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\obj\Debug\net8.0-windows\App.g.cs
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\obj\Debug\net8.0-windows\FichaCadastro_MarkupCompile.cache
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\obj\Debug\net8.0-windows\FichaCadastro.g.resources
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\obj\Debug\net8.0-windows\FichaCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\obj\Debug\net8.0-windows\FichaCadastro.AssemblyInfoInputs.cache
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\obj\Debug\net8.0-windows\FichaCadastro.AssemblyInfo.cs
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\obj\Debug\net8.0-windows\FichaCadastro.csproj.CoreCompileInputs.cache
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\obj\Debug\net8.0-windows\FichaCad.DFEB40A2.Up2Date
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\obj\Debug\net8.0-windows\FichaCadastro.dll
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\obj\Debug\net8.0-windows\refint\FichaCadastro.dll
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\obj\Debug\net8.0-windows\FichaCadastro.pdb
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\obj\Debug\net8.0-windows\FichaCadastro.genruntimeconfig.cache
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\obj\Debug\net8.0-windows\ref\FichaCadastro.dll

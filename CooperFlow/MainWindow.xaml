@@ -1,0 +1,83 @@
+﻿<Window x:Class="CooperFlow.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="BaseFlow"
+        Height="500"
+        Width="900"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen">
+
+    <Grid Background="#F2F4F8">
+
+        <Border
+            Width="700"
+            Height="350"
+            Background="White"
+            CornerRadius="12"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center">
+
+            <StackPanel Margin="30">
+
+                <!-- Título + Manual -->
+                <Grid>
+
+                    <TextBlock
+                        Text="BaseFlow"
+                        FontSize="28"
+                        FontWeight="Bold"
+                        VerticalAlignment="Center"/>
+
+                    <Button
+                        x:Name="BtnManual"
+                        Content="📖 Manual"
+                        Width="100"
+                        Height="30"
+                        HorizontalAlignment="Right"
+                        VerticalAlignment="Center"
+                        Click="BtnManual_Click"/>
+
+                </Grid>
+
+                <TextBlock
+                    Margin="0,5,0,30"
+                    Text="Padronizador de setores (Solução e Mais Saude)"
+                    Foreground="Gray"/>
+
+                <Button
+                    Name="BtnSelecionar"
+                    Width="220"
+                    Height="45"
+                    Content="📂 Selecionar Planilha"
+                    Click="BtnSelecionar_Click"/>
+
+                <TextBlock
+                    Name="TxtArquivo"
+                    Margin="0,20"
+                    FontSize="14"
+                    Text="Nenhuma planilha selecionada."/>
+
+                <Button
+                    Name="BtnProcessar"
+                    Width="220"
+                    Height="45"
+                    IsEnabled="False"
+                    Content="Processar"
+                    Click="BtnProcessar_Click"/>
+
+                <Button
+                    x:Name="BtnAbrirPasta"
+                    Content="📂 Abrir Pasta"
+                    Width="150"
+                    Height="30"
+                    Margin="0,10,0,0"
+                    Click="BtnAbrirPasta_Click"
+                    IsEnabled="False"/>
+
+            </StackPanel>
+
+        </Border>
+
+    </Grid>
+
+</Window>

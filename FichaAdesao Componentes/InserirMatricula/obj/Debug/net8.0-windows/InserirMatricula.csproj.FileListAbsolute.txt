@@ -1,0 +1,129 @@
+C:\Program Payroll\InserirMatricula\bin\Debug\net8.0-windows\InserirMatricula.exe
+C:\Program Payroll\InserirMatricula\bin\Debug\net8.0-windows\InserirMatricula.deps.json
+C:\Program Payroll\InserirMatricula\bin\Debug\net8.0-windows\InserirMatricula.runtimeconfig.json
+C:\Program Payroll\InserirMatricula\bin\Debug\net8.0-windows\InserirMatricula.dll
+C:\Program Payroll\InserirMatricula\bin\Debug\net8.0-windows\InserirMatricula.pdb
+C:\Program Payroll\InserirMatricula\bin\Debug\net8.0-windows\ClosedXML.dll
+C:\Program Payroll\InserirMatricula\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+C:\Program Payroll\InserirMatricula\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Program Payroll\InserirMatricula\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Program Payroll\InserirMatricula\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+C:\Program Payroll\InserirMatricula\bin\Debug\net8.0-windows\RBush.dll
+C:\Program Payroll\InserirMatricula\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Program Payroll\InserirMatricula\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+C:\Program Payroll\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula.csproj.AssemblyReference.cache
+C:\Program Payroll\InserirMatricula\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Program Payroll\InserirMatricula\obj\Debug\net8.0-windows\App.g.cs
+C:\Program Payroll\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula_MarkupCompile.cache
+C:\Program Payroll\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula_MarkupCompile.lref
+C:\Program Payroll\InserirMatricula\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Program Payroll\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula.g.resources
+C:\Program Payroll\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Payroll\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula.AssemblyInfoInputs.cache
+C:\Program Payroll\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula.AssemblyInfo.cs
+C:\Program Payroll\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula.csproj.CoreCompileInputs.cache
+C:\Program Payroll\InserirMatricula\obj\Debug\net8.0-windows\InserirM.17B9F7A5.Up2Date
+C:\Program Payroll\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula.dll
+C:\Program Payroll\InserirMatricula\obj\Debug\net8.0-windows\refint\InserirMatricula.dll
+C:\Program Payroll\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula.pdb
+C:\Program Payroll\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula.genruntimeconfig.cache
+C:\Program Payroll\InserirMatricula\obj\Debug\net8.0-windows\ref\InserirMatricula.dll
+C:\Sistema folha de pagamento\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula.dll
+C:\Sistema folha de pagamento\InserirMatricula\obj\Debug\net8.0-windows\refint\InserirMatricula.dll
+C:\Sistema folha de pagamento\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula.pdb
+C:\Sistema folha de pagamento\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula.csproj.AssemblyReference.cache
+C:\Sistema folha de pagamento\InserirMatricula\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Sistema folha de pagamento\InserirMatricula\obj\Debug\net8.0-windows\App.g.cs
+C:\Sistema folha de pagamento\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula_MarkupCompile.cache
+C:\Sistema folha de pagamento\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula_MarkupCompile.lref
+C:\Sistema folha de pagamento\InserirMatricula\bin\Debug\net8.0-windows\InserirMatricula.exe
+C:\Sistema folha de pagamento\InserirMatricula\bin\Debug\net8.0-windows\InserirMatricula.deps.json
+C:\Sistema folha de pagamento\InserirMatricula\bin\Debug\net8.0-windows\InserirMatricula.runtimeconfig.json
+C:\Sistema folha de pagamento\InserirMatricula\bin\Debug\net8.0-windows\InserirMatricula.dll
+C:\Sistema folha de pagamento\InserirMatricula\bin\Debug\net8.0-windows\InserirMatricula.pdb
+C:\Sistema folha de pagamento\InserirMatricula\bin\Debug\net8.0-windows\ClosedXML.dll
+C:\Sistema folha de pagamento\InserirMatricula\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+C:\Sistema folha de pagamento\InserirMatricula\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Sistema folha de pagamento\InserirMatricula\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Sistema folha de pagamento\InserirMatricula\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+C:\Sistema folha de pagamento\InserirMatricula\bin\Debug\net8.0-windows\RBush.dll
+C:\Sistema folha de pagamento\InserirMatricula\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Sistema folha de pagamento\InserirMatricula\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+C:\Sistema folha de pagamento\InserirMatricula\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Sistema folha de pagamento\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula.g.resources
+C:\Sistema folha de pagamento\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistema folha de pagamento\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula.AssemblyInfoInputs.cache
+C:\Sistema folha de pagamento\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula.AssemblyInfo.cs
+C:\Sistema folha de pagamento\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula.csproj.CoreCompileInputs.cache
+C:\Sistema folha de pagamento\InserirMatricula\obj\Debug\net8.0-windows\InserirM.17B9F7A5.Up2Date
+C:\Sistema folha de pagamento\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula.genruntimeconfig.cache
+C:\Sistema folha de pagamento\InserirMatricula\obj\Debug\net8.0-windows\ref\InserirMatricula.dll
+C:\Sistema folha de pagamento\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula_Content.g.cs
+C:\Sistema folha de pagamento\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula.Properties.Resources.resources
+C:\Sistema folha de pagamento\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula.csproj.GenerateResource.cache
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\InserirMatricula\bin\Debug\net8.0-windows\InserirMatricula.exe
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\InserirMatricula\bin\Debug\net8.0-windows\InserirMatricula.deps.json
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\InserirMatricula\bin\Debug\net8.0-windows\InserirMatricula.runtimeconfig.json
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\InserirMatricula\bin\Debug\net8.0-windows\InserirMatricula.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\InserirMatricula\bin\Debug\net8.0-windows\InserirMatricula.pdb
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\InserirMatricula\bin\Debug\net8.0-windows\ClosedXML.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\InserirMatricula\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\InserirMatricula\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\InserirMatricula\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\InserirMatricula\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\InserirMatricula\bin\Debug\net8.0-windows\RBush.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\InserirMatricula\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\InserirMatricula\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula.csproj.AssemblyReference.cache
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\InserirMatricula\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\InserirMatricula\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula_Content.g.cs
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula_MarkupCompile.cache
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula_MarkupCompile.lref
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\InserirMatricula\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula.g.resources
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula.Properties.Resources.resources
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula.csproj.GenerateResource.cache
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula.AssemblyInfoInputs.cache
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula.AssemblyInfo.cs
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula.csproj.CoreCompileInputs.cache
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\InserirMatricula\obj\Debug\net8.0-windows\InserirM.17B9F7A5.Up2Date
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\InserirMatricula\obj\Debug\net8.0-windows\refint\InserirMatricula.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula.pdb
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula.genruntimeconfig.cache
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\InserirMatricula\obj\Debug\net8.0-windows\ref\InserirMatricula.dll
+C:\Program Payroll\FichaAdesao Componentes\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula.csproj.AssemblyReference.cache
+C:\Program Payroll\FichaAdesao Componentes\InserirMatricula\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Program Payroll\FichaAdesao Componentes\InserirMatricula\obj\Debug\net8.0-windows\App.g.cs
+C:\Program Payroll\FichaAdesao Componentes\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula_Content.g.cs
+C:\Program Payroll\FichaAdesao Componentes\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula_MarkupCompile.cache
+C:\Program Payroll\FichaAdesao Componentes\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula_MarkupCompile.lref
+C:\Program Payroll\FichaAdesao Componentes\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula.dll
+C:\Program Payroll\FichaAdesao Componentes\InserirMatricula\obj\Debug\net8.0-windows\refint\InserirMatricula.dll
+C:\Program Payroll\FichaAdesao Componentes\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula.pdb
+C:\Program Payroll\FichaAdesao Componentes\InserirMatricula\bin\Debug\net8.0-windows\InserirMatricula.exe
+C:\Program Payroll\FichaAdesao Componentes\InserirMatricula\bin\Debug\net8.0-windows\InserirMatricula.deps.json
+C:\Program Payroll\FichaAdesao Componentes\InserirMatricula\bin\Debug\net8.0-windows\InserirMatricula.runtimeconfig.json
+C:\Program Payroll\FichaAdesao Componentes\InserirMatricula\bin\Debug\net8.0-windows\InserirMatricula.dll
+C:\Program Payroll\FichaAdesao Componentes\InserirMatricula\bin\Debug\net8.0-windows\InserirMatricula.pdb
+C:\Program Payroll\FichaAdesao Componentes\InserirMatricula\bin\Debug\net8.0-windows\ClosedXML.dll
+C:\Program Payroll\FichaAdesao Componentes\InserirMatricula\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+C:\Program Payroll\FichaAdesao Componentes\InserirMatricula\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Program Payroll\FichaAdesao Componentes\InserirMatricula\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Program Payroll\FichaAdesao Componentes\InserirMatricula\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+C:\Program Payroll\FichaAdesao Componentes\InserirMatricula\bin\Debug\net8.0-windows\RBush.dll
+C:\Program Payroll\FichaAdesao Componentes\InserirMatricula\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Program Payroll\FichaAdesao Componentes\InserirMatricula\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+C:\Program Payroll\FichaAdesao Componentes\InserirMatricula\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Program Payroll\FichaAdesao Componentes\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula.g.resources
+C:\Program Payroll\FichaAdesao Componentes\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula.Properties.Resources.resources
+C:\Program Payroll\FichaAdesao Componentes\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula.csproj.GenerateResource.cache
+C:\Program Payroll\FichaAdesao Componentes\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Payroll\FichaAdesao Componentes\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula.AssemblyInfoInputs.cache
+C:\Program Payroll\FichaAdesao Componentes\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula.AssemblyInfo.cs
+C:\Program Payroll\FichaAdesao Componentes\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula.csproj.CoreCompileInputs.cache
+C:\Program Payroll\FichaAdesao Componentes\InserirMatricula\obj\Debug\net8.0-windows\InserirM.17B9F7A5.Up2Date
+C:\Program Payroll\FichaAdesao Componentes\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula.genruntimeconfig.cache
+C:\Program Payroll\FichaAdesao Componentes\InserirMatricula\obj\Debug\net8.0-windows\ref\InserirMatricula.dll

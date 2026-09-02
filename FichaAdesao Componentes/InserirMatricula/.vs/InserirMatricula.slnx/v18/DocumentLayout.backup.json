@@ -1,0 +1,383 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sistema folha de pagamento\\InserirMatricula\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1477C87-6DDB-005A-B4CC-92E37D5E6860}|InserirMatricula.csproj|c:\\sistema folha de pagamento\\inserirmatricula\\services\\excelreaderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1477C87-6DDB-005A-B4CC-92E37D5E6860}|InserirMatricula.csproj|solutionrelative:services\\excelreaderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1477C87-6DDB-005A-B4CC-92E37D5E6860}|InserirMatricula.csproj|c:\\sistema folha de pagamento\\inserirmatricula\\services\\matriculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1477C87-6DDB-005A-B4CC-92E37D5E6860}|InserirMatricula.csproj|solutionrelative:services\\matriculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1477C87-6DDB-005A-B4CC-92E37D5E6860}|InserirMatricula.csproj|c:\\sistema folha de pagamento\\inserirmatricula\\services\\comparacaonomeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1477C87-6DDB-005A-B4CC-92E37D5E6860}|InserirMatricula.csproj|solutionrelative:services\\comparacaonomeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1477C87-6DDB-005A-B4CC-92E37D5E6860}|InserirMatricula.csproj|c:\\sistema folha de pagamento\\inserirmatricula\\services\\cadastroprocessorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1477C87-6DDB-005A-B4CC-92E37D5E6860}|InserirMatricula.csproj|solutionrelative:services\\cadastroprocessorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1477C87-6DDB-005A-B4CC-92E37D5E6860}|InserirMatricula.csproj|c:\\sistema folha de pagamento\\inserirmatricula\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1477C87-6DDB-005A-B4CC-92E37D5E6860}|InserirMatricula.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1477C87-6DDB-005A-B4CC-92E37D5E6860}|InserirMatricula.csproj|c:\\sistema folha de pagamento\\inserirmatricula\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1477C87-6DDB-005A-B4CC-92E37D5E6860}|InserirMatricula.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1477C87-6DDB-005A-B4CC-92E37D5E6860}|InserirMatricula.csproj|c:\\sistema folha de pagamento\\inserirmatricula\\services\\relatorioconferenciaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1477C87-6DDB-005A-B4CC-92E37D5E6860}|InserirMatricula.csproj|solutionrelative:services\\relatorioconferenciaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1477C87-6DDB-005A-B4CC-92E37D5E6860}|InserirMatricula.csproj|c:\\sistema folha de pagamento\\inserirmatricula\\models\\duplicidadedominio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1477C87-6DDB-005A-B4CC-92E37D5E6860}|InserirMatricula.csproj|solutionrelative:models\\duplicidadedominio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1477C87-6DDB-005A-B4CC-92E37D5E6860}|InserirMatricula.csproj|c:\\sistema folha de pagamento\\inserirmatricula\\models\\resultadoprocessamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1477C87-6DDB-005A-B4CC-92E37D5E6860}|InserirMatricula.csproj|solutionrelative:models\\resultadoprocessamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1477C87-6DDB-005A-B4CC-92E37D5E6860}|InserirMatricula.csproj|c:\\sistema folha de pagamento\\inserirmatricula\\helper\\excelhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1477C87-6DDB-005A-B4CC-92E37D5E6860}|InserirMatricula.csproj|solutionrelative:helper\\excelhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1477C87-6DDB-005A-B4CC-92E37D5E6860}|InserirMatricula.csproj|c:\\sistema folha de pagamento\\inserirmatricula\\helper\\textohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1477C87-6DDB-005A-B4CC-92E37D5E6860}|InserirMatricula.csproj|solutionrelative:helper\\textohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1477C87-6DDB-005A-B4CC-92E37D5E6860}|InserirMatricula.csproj|c:\\sistema folha de pagamento\\inserirmatricula\\services\\tipoplanilhaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1477C87-6DDB-005A-B4CC-92E37D5E6860}|InserirMatricula.csproj|solutionrelative:services\\tipoplanilhaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1477C87-6DDB-005A-B4CC-92E37D5E6860}|InserirMatricula.csproj|c:\\sistema folha de pagamento\\inserirmatricula\\inserirmatricula.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D1477C87-6DDB-005A-B4CC-92E37D5E6860}|InserirMatricula.csproj|solutionrelative:inserirmatricula.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1477C87-6DDB-005A-B4CC-92E37D5E6860}|InserirMatricula.csproj|c:\\sistema folha de pagamento\\inserirmatricula\\services\\excelprocessorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1477C87-6DDB-005A-B4CC-92E37D5E6860}|InserirMatricula.csproj|solutionrelative:services\\excelprocessorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1477C87-6DDB-005A-B4CC-92E37D5E6860}|InserirMatricula.csproj|c:\\sistema folha de pagamento\\inserirmatricula\\models\\pendencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1477C87-6DDB-005A-B4CC-92E37D5E6860}|InserirMatricula.csproj|solutionrelative:models\\pendencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1477C87-6DDB-005A-B4CC-92E37D5E6860}|InserirMatricula.csproj|c:\\sistema folha de pagamento\\inserirmatricula\\models\\tipoplanilha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1477C87-6DDB-005A-B4CC-92E37D5E6860}|InserirMatricula.csproj|solutionrelative:models\\tipoplanilha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1477C87-6DDB-005A-B4CC-92E37D5E6860}|InserirMatricula.csproj|c:\\sistema folha de pagamento\\inserirmatricula\\models\\sugestaofuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1477C87-6DDB-005A-B4CC-92E37D5E6860}|InserirMatricula.csproj|solutionrelative:models\\sugestaofuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1477C87-6DDB-005A-B4CC-92E37D5E6860}|InserirMatricula.csproj|c:\\sistema folha de pagamento\\inserirmatricula\\inserirmatricula.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D1477C87-6DDB-005A-B4CC-92E37D5E6860}|InserirMatricula.csproj|solutionrelative:inserirmatricula.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Sistema folha de pagamento\\InserirMatricula\\InserirMatricula.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InserirMatricula.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1477C87-6DDB-005A-B4CC-92E37D5E6860}|InserirMatricula.csproj|c:\\sistema folha de pagamento\\inserirmatricula\\models\\funcionariodominio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1477C87-6DDB-005A-B4CC-92E37D5E6860}|InserirMatricula.csproj|solutionrelative:models\\funcionariodominio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Sistema folha de pagamento\\InserirMatricula\\Helpers\\TextoHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Helpers\\TextoHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Sistema folha de pagamento\\InserirMatricula\\Helpers\\ExcelHelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Helpers\\ExcelHelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CadastroProcessorService.cs",
+              "DocumentMoniker": "C:\\Sistema folha de pagamento\\InserirMatricula\\Services\\CadastroProcessorService.cs",
+              "RelativeDocumentMoniker": "Services\\CadastroProcessorService.cs",
+              "ToolTip": "C:\\Sistema folha de pagamento\\InserirMatricula\\Services\\CadastroProcessorService.cs",
+              "RelativeToolTip": "Services\\CadastroProcessorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-16T13:41:56.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DuplicidadeDominio.cs",
+              "DocumentMoniker": "C:\\Sistema folha de pagamento\\InserirMatricula\\Models\\DuplicidadeDominio.cs",
+              "RelativeDocumentMoniker": "Models\\DuplicidadeDominio.cs",
+              "ToolTip": "C:\\Sistema folha de pagamento\\InserirMatricula\\Models\\DuplicidadeDominio.cs",
+              "RelativeToolTip": "Models\\DuplicidadeDominio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T15:15:21.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Sistema folha de pagamento\\InserirMatricula\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Sistema folha de pagamento\\InserirMatricula\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-08-04T14:21:41.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Sistema folha de pagamento\\InserirMatricula\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Sistema folha de pagamento\\InserirMatricula\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T14:21:35.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComparacaoNomeService.cs",
+              "DocumentMoniker": "C:\\Sistema folha de pagamento\\InserirMatricula\\Services\\ComparacaoNomeService.cs",
+              "RelativeDocumentMoniker": "Services\\ComparacaoNomeService.cs",
+              "ToolTip": "C:\\Sistema folha de pagamento\\InserirMatricula\\Services\\ComparacaoNomeService.cs",
+              "RelativeToolTip": "Services\\ComparacaoNomeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-07T15:00:48.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MatriculaService.cs",
+              "DocumentMoniker": "C:\\Sistema folha de pagamento\\InserirMatricula\\Services\\MatriculaService.cs",
+              "RelativeDocumentMoniker": "Services\\MatriculaService.cs",
+              "ToolTip": "C:\\Sistema folha de pagamento\\InserirMatricula\\Services\\MatriculaService.cs",
+              "RelativeToolTip": "Services\\MatriculaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T15:42:34.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExcelReaderService.cs",
+              "DocumentMoniker": "C:\\Sistema folha de pagamento\\InserirMatricula\\Services\\ExcelReaderService.cs",
+              "RelativeDocumentMoniker": "Services\\ExcelReaderService.cs",
+              "ToolTip": "C:\\Sistema folha de pagamento\\InserirMatricula\\Services\\ExcelReaderService.cs",
+              "RelativeToolTip": "Services\\ExcelReaderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T15:06:36.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResultadoProcessamento.cs",
+              "DocumentMoniker": "C:\\Sistema folha de pagamento\\InserirMatricula\\Models\\ResultadoProcessamento.cs",
+              "RelativeDocumentMoniker": "Models\\ResultadoProcessamento.cs",
+              "ToolTip": "C:\\Sistema folha de pagamento\\InserirMatricula\\Models\\ResultadoProcessamento.cs",
+              "RelativeToolTip": "Models\\ResultadoProcessamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T16:00:43.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RelatorioConferenciaService.cs",
+              "DocumentMoniker": "C:\\Sistema folha de pagamento\\InserirMatricula\\Services\\RelatorioConferenciaService.cs",
+              "RelativeDocumentMoniker": "Services\\RelatorioConferenciaService.cs",
+              "ToolTip": "C:\\Sistema folha de pagamento\\InserirMatricula\\Services\\RelatorioConferenciaService.cs",
+              "RelativeToolTip": "Services\\RelatorioConferenciaService.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAwwPoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T15:23:09.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExcelHelper.cs",
+              "DocumentMoniker": "C:\\Sistema folha de pagamento\\InserirMatricula\\Helper\\ExcelHelper.cs",
+              "RelativeDocumentMoniker": "Helper\\ExcelHelper.cs",
+              "ToolTip": "C:\\Sistema folha de pagamento\\InserirMatricula\\Helper\\ExcelHelper.cs",
+              "RelativeToolTip": "Helper\\ExcelHelper.cs",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAowEkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T16:03:09.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TextoHelper.cs",
+              "DocumentMoniker": "C:\\Sistema folha de pagamento\\InserirMatricula\\Helper\\TextoHelper.cs",
+              "RelativeDocumentMoniker": "Helper\\TextoHelper.cs",
+              "ToolTip": "C:\\Sistema folha de pagamento\\InserirMatricula\\Helper\\TextoHelper.cs",
+              "RelativeToolTip": "Helper\\TextoHelper.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAQwFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T14:58:32.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InserirMatricula",
+              "DocumentMoniker": "C:\\Sistema folha de pagamento\\InserirMatricula\\InserirMatricula.csproj",
+              "RelativeDocumentMoniker": "InserirMatricula.csproj",
+              "ToolTip": "C:\\Sistema folha de pagamento\\InserirMatricula\\InserirMatricula.csproj",
+              "RelativeToolTip": "InserirMatricula.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-13T14:05:30.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TipoPlanilhaService.cs",
+              "DocumentMoniker": "C:\\Sistema folha de pagamento\\InserirMatricula\\Services\\TipoPlanilhaService.cs",
+              "RelativeDocumentMoniker": "Services\\TipoPlanilhaService.cs",
+              "ToolTip": "C:\\Sistema folha de pagamento\\InserirMatricula\\Services\\TipoPlanilhaService.cs",
+              "RelativeToolTip": "Services\\TipoPlanilhaService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T04:11:46.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExcelProcessorService.cs",
+              "DocumentMoniker": "C:\\Sistema folha de pagamento\\InserirMatricula\\Services\\ExcelProcessorService.cs",
+              "RelativeDocumentMoniker": "Services\\ExcelProcessorService.cs",
+              "ToolTip": "C:\\Sistema folha de pagamento\\InserirMatricula\\Services\\ExcelProcessorService.cs",
+              "RelativeToolTip": "Services\\ExcelProcessorService.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAKMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T16:01:20.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Pendencia.cs",
+              "DocumentMoniker": "C:\\Sistema folha de pagamento\\InserirMatricula\\Models\\Pendencia.cs",
+              "RelativeDocumentMoniker": "Models\\Pendencia.cs",
+              "ToolTip": "C:\\Sistema folha de pagamento\\InserirMatricula\\Models\\Pendencia.cs",
+              "RelativeToolTip": "Models\\Pendencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-07T14:13:25.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SugestaoFuncionario.cs",
+              "DocumentMoniker": "C:\\Sistema folha de pagamento\\InserirMatricula\\Models\\SugestaoFuncionario.cs",
+              "RelativeDocumentMoniker": "Models\\SugestaoFuncionario.cs",
+              "ToolTip": "C:\\Sistema folha de pagamento\\InserirMatricula\\Models\\SugestaoFuncionario.cs",
+              "RelativeToolTip": "Models\\SugestaoFuncionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-07T14:59:31.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TipoPlanilha.cs",
+              "DocumentMoniker": "C:\\Sistema folha de pagamento\\InserirMatricula\\Models\\TipoPlanilha.cs",
+              "RelativeDocumentMoniker": "Models\\TipoPlanilha.cs",
+              "ToolTip": "C:\\Sistema folha de pagamento\\InserirMatricula\\Models\\TipoPlanilha.cs",
+              "RelativeToolTip": "Models\\TipoPlanilha.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T04:10:03.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InserirMatricula.csproj",
+              "DocumentMoniker": "C:\\Sistema folha de pagamento\\InserirMatricula\\InserirMatricula.csproj",
+              "RelativeDocumentMoniker": "InserirMatricula.csproj",
+              "ToolTip": "C:\\Sistema folha de pagamento\\InserirMatricula\\InserirMatricula.csproj",
+              "RelativeToolTip": "InserirMatricula.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-04T15:08:39.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InserirMatricula.csproj.user",
+              "DocumentMoniker": "C:\\Sistema folha de pagamento\\InserirMatricula\\InserirMatricula.csproj.user",
+              "RelativeDocumentMoniker": "InserirMatricula.csproj.user",
+              "ToolTip": "C:\\Sistema folha de pagamento\\InserirMatricula\\InserirMatricula.csproj.user",
+              "RelativeToolTip": "InserirMatricula.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2026-08-09T15:46:02.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TextoHelper.cs",
+              "DocumentMoniker": "C:\\Sistema folha de pagamento\\InserirMatricula\\Helpers\\TextoHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\TextoHelper.cs",
+              "ToolTip": "C:\\Sistema folha de pagamento\\InserirMatricula\\Helpers\\TextoHelper.cs",
+              "RelativeToolTip": "Helpers\\TextoHelper.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T15:48:15.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ExcelHelpers.cs",
+              "DocumentMoniker": "C:\\Sistema folha de pagamento\\InserirMatricula\\Helpers\\ExcelHelpers.cs",
+              "RelativeDocumentMoniker": "Helpers\\ExcelHelpers.cs",
+              "ToolTip": "C:\\Sistema folha de pagamento\\InserirMatricula\\Helpers\\ExcelHelpers.cs",
+              "RelativeToolTip": "Helpers\\ExcelHelpers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T15:48:14.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FuncionarioDominio.cs",
+              "DocumentMoniker": "C:\\Sistema folha de pagamento\\InserirMatricula\\Models\\FuncionarioDominio.cs",
+              "RelativeDocumentMoniker": "Models\\FuncionarioDominio.cs",
+              "ToolTip": "C:\\Sistema folha de pagamento\\InserirMatricula\\Models\\FuncionarioDominio.cs",
+              "RelativeToolTip": "Models\\FuncionarioDominio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T14:38:06.527Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

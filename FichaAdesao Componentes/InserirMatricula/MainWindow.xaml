@@ -1,0 +1,68 @@
+﻿<Window x:Class="InserirMatricula.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:InserirMatricula"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel Margin="20,29,20,20">
+
+            <TextBlock 
+                Text="Codificar Matrículas"
+                FontSize="22"
+                FontWeight="Bold"
+                Margin="0,0,0,20"/>
+
+
+            <Button
+                Content="Selecionar Arquivo Domínio"
+                Width="250"
+                Height="35"
+                Click="SelecionarDominio_Click"/>
+
+
+            <TextBlock
+                x:Name="txtDominio"
+                Margin="0,2,0,20"
+                Text="Nenhum arquivo selecionado"
+                Width="248"
+                Height="18"/>
+
+
+            <Button
+                Content="Selecionar Arquivo PRODUÇÃO"
+                Width="250"
+                Height="35"
+                Click="SelecionarFolha_Click"/>
+
+
+            <TextBlock
+                x:Name="txtFolha"
+                Margin="0,2,0,20"
+                Text="Nenhum arquivo selecionado"
+                Width="248"/>
+
+
+            <Button
+                x:Name="BtnProcessar"
+                Content="Processar Matrículas"
+                Width="250"
+                Height="40"
+                IsEnabled="False"
+                Click="Processar_Click"/>
+
+
+            <Button
+                x:Name="BtnAbrirPastaResultados"
+                Content="📂 Abrir pasta"
+                Click="BtnAbrirPastaResultados_Click"
+                Margin="10"
+                Padding="15,8"
+                Width="116"
+                IsEnabled="False"/>
+
+        </StackPanel>
+    </Grid>
+</Window>

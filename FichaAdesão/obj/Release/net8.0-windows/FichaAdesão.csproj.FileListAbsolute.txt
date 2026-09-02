@@ -1,0 +1,81 @@
+C:\Estudos\FichaAdesão\bin\Release\net8.0-windows\FichaAdesão.exe
+C:\Estudos\FichaAdesão\bin\Release\net8.0-windows\FichaAdesão.deps.json
+C:\Estudos\FichaAdesão\bin\Release\net8.0-windows\FichaAdesão.runtimeconfig.json
+C:\Estudos\FichaAdesão\bin\Release\net8.0-windows\FichaAdesão.dll
+C:\Estudos\FichaAdesão\bin\Release\net8.0-windows\FichaAdesão.pdb
+C:\Estudos\FichaAdesão\obj\Release\net8.0-windows\MainWindow.baml
+C:\Estudos\FichaAdesão\obj\Release\net8.0-windows\MainWindow.g.cs
+C:\Estudos\FichaAdesão\obj\Release\net8.0-windows\App.g.cs
+C:\Estudos\FichaAdesão\obj\Release\net8.0-windows\FichaAdesão_MarkupCompile.cache
+C:\Estudos\FichaAdesão\obj\Release\net8.0-windows\FichaAdesão.g.resources
+C:\Estudos\FichaAdesão\obj\Release\net8.0-windows\FichaAdesão.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\FichaAdesão\obj\Release\net8.0-windows\FichaAdesão.AssemblyInfoInputs.cache
+C:\Estudos\FichaAdesão\obj\Release\net8.0-windows\FichaAdesão.AssemblyInfo.cs
+C:\Estudos\FichaAdesão\obj\Release\net8.0-windows\FichaAdesão.csproj.CoreCompileInputs.cache
+C:\Estudos\FichaAdesão\obj\Release\net8.0-windows\FichaAdesão.dll
+C:\Estudos\FichaAdesão\obj\Release\net8.0-windows\refint\FichaAdesão.dll
+C:\Estudos\FichaAdesão\obj\Release\net8.0-windows\FichaAdesão.pdb
+C:\Estudos\FichaAdesão\obj\Release\net8.0-windows\FichaAdesão.genruntimeconfig.cache
+C:\Estudos\FichaAdesão\obj\Release\net8.0-windows\ref\FichaAdesão.dll
+C:\Estudos\FichaAdesão\bin\Release\net8.0-windows\FichaCadastro.deps.json
+C:\Estudos\FichaAdesão\bin\Release\net8.0-windows\FichaCadastro.runtimeconfig.json
+C:\Estudos\FichaAdesão\bin\Release\net8.0-windows\FichaCadastro.exe
+C:\Estudos\FichaAdesão\bin\Release\net8.0-windows\InserirMatricula.deps.json
+C:\Estudos\FichaAdesão\bin\Release\net8.0-windows\InserirMatricula.runtimeconfig.json
+C:\Estudos\FichaAdesão\bin\Release\net8.0-windows\InserirMatricula.exe
+C:\Estudos\FichaAdesão\bin\Release\net8.0-windows\ClosedXML.dll
+C:\Estudos\FichaAdesão\bin\Release\net8.0-windows\ClosedXML.Parser.dll
+C:\Estudos\FichaAdesão\bin\Release\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Estudos\FichaAdesão\bin\Release\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Estudos\FichaAdesão\bin\Release\net8.0-windows\ExcelNumberFormat.dll
+C:\Estudos\FichaAdesão\bin\Release\net8.0-windows\RBush.dll
+C:\Estudos\FichaAdesão\bin\Release\net8.0-windows\SixLabors.Fonts.dll
+C:\Estudos\FichaAdesão\bin\Release\net8.0-windows\System.IO.Packaging.dll
+C:\Estudos\FichaAdesão\bin\Release\net8.0-windows\FichaCadastro.dll
+C:\Estudos\FichaAdesão\bin\Release\net8.0-windows\InserirMatricula.dll
+C:\Estudos\FichaAdesão\bin\Release\net8.0-windows\FichaCadastro.pdb
+C:\Estudos\FichaAdesão\bin\Release\net8.0-windows\InserirMatricula.pdb
+C:\Estudos\FichaAdesão\obj\Release\net8.0-windows\FichaAdesão.csproj.AssemblyReference.cache
+C:\Estudos\FichaAdesão\obj\Release\net8.0-windows\FichaAde.FC785F72.Up2Date
+C:\Estudos\FichaAdesão\obj\Release\net8.0-windows\FichaAdesão_Content.g.cs
+C:\Estudos\FichaAdesão\bin\Release\net8.0-windows\Manual\Manual_Fichas_Adesao_Cooperado.pdf
+C:\Program Payroll\FichaAdesão\bin\Release\net8.0-windows\InserirMatricula.deps.json
+C:\Program Payroll\FichaAdesão\bin\Release\net8.0-windows\InserirMatricula.runtimeconfig.json
+C:\Program Payroll\FichaAdesão\bin\Release\net8.0-windows\InserirMatricula.exe
+C:\Program Payroll\FichaAdesão\bin\Release\net8.0-windows\FichaCadastro.deps.json
+C:\Program Payroll\FichaAdesão\bin\Release\net8.0-windows\FichaCadastro.runtimeconfig.json
+C:\Program Payroll\FichaAdesão\bin\Release\net8.0-windows\FichaCadastro.exe
+C:\Program Payroll\FichaAdesão\bin\Release\net8.0-windows\FichaAdesão.exe
+C:\Program Payroll\FichaAdesão\bin\Release\net8.0-windows\FichaAdesão.deps.json
+C:\Program Payroll\FichaAdesão\bin\Release\net8.0-windows\FichaAdesão.runtimeconfig.json
+C:\Program Payroll\FichaAdesão\bin\Release\net8.0-windows\FichaAdesão.dll
+C:\Program Payroll\FichaAdesão\bin\Release\net8.0-windows\FichaAdesão.pdb
+C:\Program Payroll\FichaAdesão\bin\Release\net8.0-windows\ClosedXML.dll
+C:\Program Payroll\FichaAdesão\bin\Release\net8.0-windows\ClosedXML.Parser.dll
+C:\Program Payroll\FichaAdesão\bin\Release\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Program Payroll\FichaAdesão\bin\Release\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Program Payroll\FichaAdesão\bin\Release\net8.0-windows\ExcelNumberFormat.dll
+C:\Program Payroll\FichaAdesão\bin\Release\net8.0-windows\RBush.dll
+C:\Program Payroll\FichaAdesão\bin\Release\net8.0-windows\SixLabors.Fonts.dll
+C:\Program Payroll\FichaAdesão\bin\Release\net8.0-windows\System.IO.Packaging.dll
+C:\Program Payroll\FichaAdesão\bin\Release\net8.0-windows\FichaCadastro.dll
+C:\Program Payroll\FichaAdesão\bin\Release\net8.0-windows\InserirMatricula.dll
+C:\Program Payroll\FichaAdesão\bin\Release\net8.0-windows\FichaCadastro.pdb
+C:\Program Payroll\FichaAdesão\bin\Release\net8.0-windows\InserirMatricula.pdb
+C:\Program Payroll\FichaAdesão\obj\Release\net8.0-windows\FichaAdesão.csproj.AssemblyReference.cache
+C:\Program Payroll\FichaAdesão\obj\Release\net8.0-windows\MainWindow.baml
+C:\Program Payroll\FichaAdesão\obj\Release\net8.0-windows\MainWindow.g.cs
+C:\Program Payroll\FichaAdesão\obj\Release\net8.0-windows\App.g.cs
+C:\Program Payroll\FichaAdesão\obj\Release\net8.0-windows\FichaAdesão_Content.g.cs
+C:\Program Payroll\FichaAdesão\obj\Release\net8.0-windows\FichaAdesão_MarkupCompile.cache
+C:\Program Payroll\FichaAdesão\obj\Release\net8.0-windows\FichaAdesão.g.resources
+C:\Program Payroll\FichaAdesão\obj\Release\net8.0-windows\FichaAdesão.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Payroll\FichaAdesão\obj\Release\net8.0-windows\FichaAdesão.AssemblyInfoInputs.cache
+C:\Program Payroll\FichaAdesão\obj\Release\net8.0-windows\FichaAdesão.AssemblyInfo.cs
+C:\Program Payroll\FichaAdesão\obj\Release\net8.0-windows\FichaAdesão.csproj.CoreCompileInputs.cache
+C:\Program Payroll\FichaAdesão\obj\Release\net8.0-windows\FichaAde.FC785F72.Up2Date
+C:\Program Payroll\FichaAdesão\obj\Release\net8.0-windows\FichaAdesão.dll
+C:\Program Payroll\FichaAdesão\obj\Release\net8.0-windows\refint\FichaAdesão.dll
+C:\Program Payroll\FichaAdesão\obj\Release\net8.0-windows\FichaAdesão.pdb
+C:\Program Payroll\FichaAdesão\obj\Release\net8.0-windows\FichaAdesão.genruntimeconfig.cache
+C:\Program Payroll\FichaAdesão\obj\Release\net8.0-windows\ref\FichaAdesão.dll

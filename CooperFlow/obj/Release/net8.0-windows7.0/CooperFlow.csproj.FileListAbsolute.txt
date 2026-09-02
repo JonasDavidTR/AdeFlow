@@ -1,0 +1,67 @@
+C:\Sistema folha de pagamento\CooperFlow\bin\Release\net8.0-windows7.0\CooperFlow.exe
+C:\Sistema folha de pagamento\CooperFlow\bin\Release\net8.0-windows7.0\CooperFlow.deps.json
+C:\Sistema folha de pagamento\CooperFlow\bin\Release\net8.0-windows7.0\CooperFlow.runtimeconfig.json
+C:\Sistema folha de pagamento\CooperFlow\bin\Release\net8.0-windows7.0\CooperFlow.dll
+C:\Sistema folha de pagamento\CooperFlow\bin\Release\net8.0-windows7.0\CooperFlow.pdb
+C:\Sistema folha de pagamento\CooperFlow\bin\Release\net8.0-windows7.0\ClosedXML.dll
+C:\Sistema folha de pagamento\CooperFlow\bin\Release\net8.0-windows7.0\ClosedXML.Parser.dll
+C:\Sistema folha de pagamento\CooperFlow\bin\Release\net8.0-windows7.0\DocumentFormat.OpenXml.dll
+C:\Sistema folha de pagamento\CooperFlow\bin\Release\net8.0-windows7.0\DocumentFormat.OpenXml.Framework.dll
+C:\Sistema folha de pagamento\CooperFlow\bin\Release\net8.0-windows7.0\ExcelNumberFormat.dll
+C:\Sistema folha de pagamento\CooperFlow\bin\Release\net8.0-windows7.0\FuzzySharp.dll
+C:\Sistema folha de pagamento\CooperFlow\bin\Release\net8.0-windows7.0\RBush.dll
+C:\Sistema folha de pagamento\CooperFlow\bin\Release\net8.0-windows7.0\SixLabors.Fonts.dll
+C:\Sistema folha de pagamento\CooperFlow\bin\Release\net8.0-windows7.0\System.IO.Packaging.dll
+C:\Sistema folha de pagamento\CooperFlow\obj\Release\net8.0-windows7.0\CooperFlow.csproj.AssemblyReference.cache
+C:\Sistema folha de pagamento\CooperFlow\obj\Release\net8.0-windows7.0\MainWindow.baml
+C:\Sistema folha de pagamento\CooperFlow\obj\Release\net8.0-windows7.0\ResolverCargoWindow.baml
+C:\Sistema folha de pagamento\CooperFlow\obj\Release\net8.0-windows7.0\MainWindow.g.cs
+C:\Sistema folha de pagamento\CooperFlow\obj\Release\net8.0-windows7.0\ResolverCargoWindow.g.cs
+C:\Sistema folha de pagamento\CooperFlow\obj\Release\net8.0-windows7.0\App.g.cs
+C:\Sistema folha de pagamento\CooperFlow\obj\Release\net8.0-windows7.0\CooperFlow_MarkupCompile.cache
+C:\Sistema folha de pagamento\CooperFlow\obj\Release\net8.0-windows7.0\CooperFlow.g.resources
+C:\Sistema folha de pagamento\CooperFlow\obj\Release\net8.0-windows7.0\CooperFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistema folha de pagamento\CooperFlow\obj\Release\net8.0-windows7.0\CooperFlow.AssemblyInfoInputs.cache
+C:\Sistema folha de pagamento\CooperFlow\obj\Release\net8.0-windows7.0\CooperFlow.AssemblyInfo.cs
+C:\Sistema folha de pagamento\CooperFlow\obj\Release\net8.0-windows7.0\CooperFlow.csproj.CoreCompileInputs.cache
+C:\Sistema folha de pagamento\CooperFlow\obj\Release\net8.0-windows7.0\CooperFlow.csproj.Up2Date
+C:\Sistema folha de pagamento\CooperFlow\obj\Release\net8.0-windows7.0\CooperFlow.dll
+C:\Sistema folha de pagamento\CooperFlow\obj\Release\net8.0-windows7.0\refint\CooperFlow.dll
+C:\Sistema folha de pagamento\CooperFlow\obj\Release\net8.0-windows7.0\CooperFlow.pdb
+C:\Sistema folha de pagamento\CooperFlow\obj\Release\net8.0-windows7.0\CooperFlow.genruntimeconfig.cache
+C:\Sistema folha de pagamento\CooperFlow\obj\Release\net8.0-windows7.0\ref\CooperFlow.dll
+C:\Program Payroll\CooperFlow\bin\Release\net8.0-windows7.0\CooperFlow.exe
+C:\Program Payroll\CooperFlow\bin\Release\net8.0-windows7.0\CooperFlow.deps.json
+C:\Program Payroll\CooperFlow\bin\Release\net8.0-windows7.0\CooperFlow.runtimeconfig.json
+C:\Program Payroll\CooperFlow\bin\Release\net8.0-windows7.0\CooperFlow.dll
+C:\Program Payroll\CooperFlow\bin\Release\net8.0-windows7.0\CooperFlow.pdb
+C:\Program Payroll\CooperFlow\bin\Release\net8.0-windows7.0\ClosedXML.dll
+C:\Program Payroll\CooperFlow\bin\Release\net8.0-windows7.0\ClosedXML.Parser.dll
+C:\Program Payroll\CooperFlow\bin\Release\net8.0-windows7.0\DocumentFormat.OpenXml.dll
+C:\Program Payroll\CooperFlow\bin\Release\net8.0-windows7.0\DocumentFormat.OpenXml.Framework.dll
+C:\Program Payroll\CooperFlow\bin\Release\net8.0-windows7.0\ExcelNumberFormat.dll
+C:\Program Payroll\CooperFlow\bin\Release\net8.0-windows7.0\FuzzySharp.dll
+C:\Program Payroll\CooperFlow\bin\Release\net8.0-windows7.0\RBush.dll
+C:\Program Payroll\CooperFlow\bin\Release\net8.0-windows7.0\SixLabors.Fonts.dll
+C:\Program Payroll\CooperFlow\bin\Release\net8.0-windows7.0\System.IO.Packaging.dll
+C:\Program Payroll\CooperFlow\obj\Release\net8.0-windows7.0\CooperFlow.csproj.AssemblyReference.cache
+C:\Program Payroll\CooperFlow\obj\Release\net8.0-windows7.0\MainWindow.baml
+C:\Program Payroll\CooperFlow\obj\Release\net8.0-windows7.0\ResolverCargoWindow.baml
+C:\Program Payroll\CooperFlow\obj\Release\net8.0-windows7.0\MainWindow.g.cs
+C:\Program Payroll\CooperFlow\obj\Release\net8.0-windows7.0\ResolverCargoWindow.g.cs
+C:\Program Payroll\CooperFlow\obj\Release\net8.0-windows7.0\App.g.cs
+C:\Program Payroll\CooperFlow\obj\Release\net8.0-windows7.0\CooperFlow_MarkupCompile.cache
+C:\Program Payroll\CooperFlow\obj\Release\net8.0-windows7.0\CooperFlow.g.resources
+C:\Program Payroll\CooperFlow\obj\Release\net8.0-windows7.0\CooperFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Payroll\CooperFlow\obj\Release\net8.0-windows7.0\CooperFlow.AssemblyInfoInputs.cache
+C:\Program Payroll\CooperFlow\obj\Release\net8.0-windows7.0\CooperFlow.AssemblyInfo.cs
+C:\Program Payroll\CooperFlow\obj\Release\net8.0-windows7.0\CooperFlow.csproj.CoreCompileInputs.cache
+C:\Program Payroll\CooperFlow\obj\Release\net8.0-windows7.0\CooperFlow.csproj.Up2Date
+C:\Program Payroll\CooperFlow\obj\Release\net8.0-windows7.0\CooperFlow.dll
+C:\Program Payroll\CooperFlow\obj\Release\net8.0-windows7.0\refint\CooperFlow.dll
+C:\Program Payroll\CooperFlow\obj\Release\net8.0-windows7.0\CooperFlow.pdb
+C:\Program Payroll\CooperFlow\obj\Release\net8.0-windows7.0\CooperFlow.genruntimeconfig.cache
+C:\Program Payroll\CooperFlow\obj\Release\net8.0-windows7.0\ref\CooperFlow.dll
+C:\Program Payroll\CooperFlow\bin\Release\net8.0-windows7.0\Data\cargos.json
+C:\Program Payroll\CooperFlow\bin\Release\net8.0-windows7.0\Manual\Manual_BaseFlow.pdf
+C:\Program Payroll\CooperFlow\obj\Release\net8.0-windows7.0\CooperFlow_Content.g.cs

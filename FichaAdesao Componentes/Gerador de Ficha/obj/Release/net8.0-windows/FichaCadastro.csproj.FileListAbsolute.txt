@@ -1,0 +1,93 @@
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\bin\Release\net8.0-windows\FichaCadastro.exe
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\bin\Release\net8.0-windows\FichaCadastro.deps.json
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\bin\Release\net8.0-windows\FichaCadastro.runtimeconfig.json
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\bin\Release\net8.0-windows\FichaCadastro.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\bin\Release\net8.0-windows\FichaCadastro.pdb
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\bin\Release\net8.0-windows\ClosedXML.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\bin\Release\net8.0-windows\ClosedXML.Parser.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\bin\Release\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\bin\Release\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\bin\Release\net8.0-windows\ExcelNumberFormat.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\bin\Release\net8.0-windows\RBush.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\bin\Release\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\bin\Release\net8.0-windows\System.IO.Packaging.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\obj\Release\net8.0-windows\FichaCadastro.csproj.AssemblyReference.cache
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\obj\Release\net8.0-windows\CadastroIndividualWindow.baml
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\obj\Release\net8.0-windows\MainWindow.baml
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\obj\Release\net8.0-windows\CadastroIndividualWindow.g.cs
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\obj\Release\net8.0-windows\MainWindow.g.cs
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\obj\Release\net8.0-windows\App.g.cs
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\obj\Release\net8.0-windows\FichaCadastro_MarkupCompile.cache
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\obj\Release\net8.0-windows\FichaCadastro.g.resources
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\obj\Release\net8.0-windows\FichaCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\obj\Release\net8.0-windows\FichaCadastro.AssemblyInfoInputs.cache
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\obj\Release\net8.0-windows\FichaCadastro.AssemblyInfo.cs
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\obj\Release\net8.0-windows\FichaCadastro.csproj.CoreCompileInputs.cache
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\obj\Release\net8.0-windows\FichaCad.DFEB40A2.Up2Date
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\obj\Release\net8.0-windows\FichaCadastro.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\obj\Release\net8.0-windows\refint\FichaCadastro.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\obj\Release\net8.0-windows\FichaCadastro.pdb
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\obj\Release\net8.0-windows\FichaCadastro.genruntimeconfig.cache
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\FichaCadastro\obj\Release\net8.0-windows\ref\FichaCadastro.dll
+C:\Estudos\FichaCadastro\bin\Release\net8.0-windows\FichaCadastro.exe
+C:\Estudos\FichaCadastro\bin\Release\net8.0-windows\FichaCadastro.deps.json
+C:\Estudos\FichaCadastro\bin\Release\net8.0-windows\FichaCadastro.runtimeconfig.json
+C:\Estudos\FichaCadastro\bin\Release\net8.0-windows\FichaCadastro.dll
+C:\Estudos\FichaCadastro\bin\Release\net8.0-windows\FichaCadastro.pdb
+C:\Estudos\FichaCadastro\bin\Release\net8.0-windows\ClosedXML.dll
+C:\Estudos\FichaCadastro\bin\Release\net8.0-windows\ClosedXML.Parser.dll
+C:\Estudos\FichaCadastro\bin\Release\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Estudos\FichaCadastro\bin\Release\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Estudos\FichaCadastro\bin\Release\net8.0-windows\ExcelNumberFormat.dll
+C:\Estudos\FichaCadastro\bin\Release\net8.0-windows\RBush.dll
+C:\Estudos\FichaCadastro\bin\Release\net8.0-windows\SixLabors.Fonts.dll
+C:\Estudos\FichaCadastro\bin\Release\net8.0-windows\System.IO.Packaging.dll
+C:\Estudos\FichaCadastro\obj\Release\net8.0-windows\FichaCadastro.csproj.AssemblyReference.cache
+C:\Estudos\FichaCadastro\obj\Release\net8.0-windows\CadastroIndividualWindow.baml
+C:\Estudos\FichaCadastro\obj\Release\net8.0-windows\MainWindow.baml
+C:\Estudos\FichaCadastro\obj\Release\net8.0-windows\CadastroIndividualWindow.g.cs
+C:\Estudos\FichaCadastro\obj\Release\net8.0-windows\MainWindow.g.cs
+C:\Estudos\FichaCadastro\obj\Release\net8.0-windows\App.g.cs
+C:\Estudos\FichaCadastro\obj\Release\net8.0-windows\FichaCadastro_MarkupCompile.cache
+C:\Estudos\FichaCadastro\obj\Release\net8.0-windows\FichaCadastro.g.resources
+C:\Estudos\FichaCadastro\obj\Release\net8.0-windows\FichaCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\FichaCadastro\obj\Release\net8.0-windows\FichaCadastro.AssemblyInfoInputs.cache
+C:\Estudos\FichaCadastro\obj\Release\net8.0-windows\FichaCadastro.AssemblyInfo.cs
+C:\Estudos\FichaCadastro\obj\Release\net8.0-windows\FichaCadastro.csproj.CoreCompileInputs.cache
+C:\Estudos\FichaCadastro\obj\Release\net8.0-windows\FichaCad.DFEB40A2.Up2Date
+C:\Estudos\FichaCadastro\obj\Release\net8.0-windows\FichaCadastro.dll
+C:\Estudos\FichaCadastro\obj\Release\net8.0-windows\refint\FichaCadastro.dll
+C:\Estudos\FichaCadastro\obj\Release\net8.0-windows\FichaCadastro.pdb
+C:\Estudos\FichaCadastro\obj\Release\net8.0-windows\FichaCadastro.genruntimeconfig.cache
+C:\Estudos\FichaCadastro\obj\Release\net8.0-windows\ref\FichaCadastro.dll
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\bin\Release\net8.0-windows\FichaCadastro.exe
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\bin\Release\net8.0-windows\FichaCadastro.deps.json
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\bin\Release\net8.0-windows\FichaCadastro.runtimeconfig.json
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\bin\Release\net8.0-windows\FichaCadastro.dll
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\bin\Release\net8.0-windows\FichaCadastro.pdb
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\bin\Release\net8.0-windows\ClosedXML.dll
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\bin\Release\net8.0-windows\ClosedXML.Parser.dll
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\bin\Release\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\bin\Release\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\bin\Release\net8.0-windows\ExcelNumberFormat.dll
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\bin\Release\net8.0-windows\RBush.dll
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\bin\Release\net8.0-windows\SixLabors.Fonts.dll
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\bin\Release\net8.0-windows\System.IO.Packaging.dll
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\obj\Release\net8.0-windows\FichaCadastro.csproj.AssemblyReference.cache
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\obj\Release\net8.0-windows\CadastroIndividualWindow.baml
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\obj\Release\net8.0-windows\MainWindow.baml
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\obj\Release\net8.0-windows\CadastroIndividualWindow.g.cs
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\obj\Release\net8.0-windows\MainWindow.g.cs
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\obj\Release\net8.0-windows\App.g.cs
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\obj\Release\net8.0-windows\FichaCadastro_MarkupCompile.cache
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\obj\Release\net8.0-windows\FichaCadastro.g.resources
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\obj\Release\net8.0-windows\FichaCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\obj\Release\net8.0-windows\FichaCadastro.AssemblyInfoInputs.cache
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\obj\Release\net8.0-windows\FichaCadastro.AssemblyInfo.cs
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\obj\Release\net8.0-windows\FichaCadastro.csproj.CoreCompileInputs.cache
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\obj\Release\net8.0-windows\FichaCad.DFEB40A2.Up2Date
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\obj\Release\net8.0-windows\FichaCadastro.dll
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\obj\Release\net8.0-windows\refint\FichaCadastro.dll
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\obj\Release\net8.0-windows\FichaCadastro.pdb
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\obj\Release\net8.0-windows\FichaCadastro.genruntimeconfig.cache
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\obj\Release\net8.0-windows\ref\FichaCadastro.dll

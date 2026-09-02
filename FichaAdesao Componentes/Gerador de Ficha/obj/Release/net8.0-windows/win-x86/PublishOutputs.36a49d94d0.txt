@@ -1,0 +1,13 @@
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\testeFichaCadastro\FichaCadastro.exe
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\testeFichaCadastro\FichaCadastro.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\testeFichaCadastro\FichaCadastro.deps.json
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\testeFichaCadastro\FichaCadastro.runtimeconfig.json
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\testeFichaCadastro\FichaCadastro.pdb
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\testeFichaCadastro\ClosedXML.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\testeFichaCadastro\ClosedXML.Parser.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\testeFichaCadastro\DocumentFormat.OpenXml.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\testeFichaCadastro\DocumentFormat.OpenXml.Framework.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\testeFichaCadastro\ExcelNumberFormat.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\testeFichaCadastro\RBush.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\testeFichaCadastro\SixLabors.Fonts.dll
+C:\Users\jonas\OneDrive\Área de Trabalho\BackUp\testeFichaCadastro\System.IO.Packaging.dll

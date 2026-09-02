@@ -1,0 +1,213 @@
+﻿ <Window x:Class="GeradorFichaCadastro.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Gerador de Fichas de Cadastro"
+        Height="650"
+        Width="900"
+        MinHeight="600"
+        MinWidth="800"
+        WindowStartupLocation="CenterScreen">
+
+    <Grid Margin="30">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="25"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- TÍTULO -->
+        <!-- ===================================================== -->
+
+        <StackPanel Grid.Row="0">
+
+            <TextBlock Text="Gerador de Fichas de Adesão"
+                       FontSize="28"
+                       FontWeight="Bold"
+                       HorizontalAlignment="Center"/>
+
+            <TextBlock Text="Geração de fichas a partir do DOMÍNIO ou cadastro individual"
+                       FontSize="14"
+                       Foreground="Gray"
+                       HorizontalAlignment="Center"
+                       Margin="0,5,0,0"/>
+
+        </StackPanel>
+
+
+        <!-- ARQUIVOS -->
+        <!-- =============================================== -->
+
+        <GroupBox Grid.Row="2"
+                  Header="Arquivos"
+                  Padding="15">
+
+            <Grid>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="15"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <!-- MODELO -->
+                <Grid Grid.Row="0">
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="170"/>
+                    </Grid.ColumnDefinitions>
+
+                    <StackPanel Grid.Column="0">
+
+                        <TextBlock Text="Modelo da ficha"
+                                   FontWeight="SemiBold"
+                                   Margin="0,0,0,5"/>
+
+                        <TextBox x:Name="TxtModelo"
+                                 Height="35"
+                                 VerticalContentAlignment="Center"
+                                 IsReadOnly="True"/>
+
+                    </StackPanel>
+
+                    <Button Grid.Column="1"
+                            Content="Selecionar Modelo"
+                            Height="35"
+                            Margin="15,22,0,0"
+                            Click="BtnSelecionarModelo_Click"/>
+
+                </Grid>
+
+
+                <!-- DOMÍNIO -->
+                <Grid Grid.Row="2">
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="170"/>
+                    </Grid.ColumnDefinitions>
+
+                    <StackPanel Grid.Column="0">
+
+                        <TextBlock Text="Relatório do DOMÍNIO"
+                                   FontWeight="SemiBold"
+                                   Margin="0,0,0,5"/>
+
+                        <TextBox x:Name="TxtDominio"
+                                 Height="35"
+                                 VerticalContentAlignment="Center"
+                                 IsReadOnly="True"/>
+
+                    </StackPanel>
+
+                    <Button Grid.Column="1"
+                            Content="Selecionar DOMÍNIO"
+                            Height="35"
+                            Margin="15,22,0,0"
+                            Click="BtnSelecionarDominio_Click"/>
+
+                </Grid>
+
+            </Grid>
+
+        </GroupBox>
+
+
+        <!-- AÇÕES -->
+        <!-- ===================================================== -->
+
+        <GroupBox Grid.Row="4"
+                  Header="Ações"
+                  Padding="15">
+
+            <Grid>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <Button Grid.Column="0"
+                        x:Name="BtnValidarModelo"
+                        Content="VALIDAR MODELO"
+                        Height="45"
+                        Margin="0,0,7,0"
+                        Click="BtnValidarModelo_Click"/>
+
+                <Button Grid.Column="1"
+                        x:Name="BtnLerDominio"
+                        Content="LER DOMÍNIO"
+                        Height="45"
+                        Margin="7,0"
+                        Click="BtnLerDominio_Click"/>
+
+                <Button Grid.Column="2"
+                        x:Name="BtnGerarFichas"
+                        Content="GERAR FICHAS"
+                        Height="45"
+                        Margin="7,0"
+                        Click="BtnGerarFichas_Click"/>
+
+                <Button Grid.Column="3"
+                        x:Name="BtnCadastroIndividual"
+                        Content="CADASTRO INDIVIDUAL"
+                        Height="45"
+                        Margin="7,0,0,0"
+                        Click="BtnCadastroIndividual_Click"/>
+
+            </Grid>
+
+        </GroupBox>
+
+
+        <!-- STATUS -->
+        <!-- ===================================================== -->
+
+        <Border Grid.Row="6"
+                BorderThickness="1"
+                BorderBrush="Gray"
+                CornerRadius="4"
+                Padding="15">
+
+            <Grid>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+
+                <TextBlock Grid.Row="0"
+                           Text="Status"
+                           FontSize="18"
+                           FontWeight="Bold"/>
+
+
+                <ScrollViewer Grid.Row="1"
+                              Margin="0,10,0,0"
+                              VerticalScrollBarVisibility="Auto"
+                              HorizontalScrollBarVisibility="Auto">
+
+                    <TextBlock x:Name="TxtStatus"
+                               Text="Aguardando seleção dos arquivos..."
+                               TextWrapping="Wrap"/>
+
+                </ScrollViewer>
+
+            </Grid>
+
+        </Border>
+
+    </Grid>
+
+</Window>

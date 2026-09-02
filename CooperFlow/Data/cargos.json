@@ -1,0 +1,518 @@
+﻿{
+  "PORTEIRO": {
+    "CargoPadrao": "PORTEIRO",
+    "Cooperativa": "SOLUCAO"
+  },
+  "TECNICO EM ENFERMAGEM": {
+    "CargoPadrao": "TECNICO EM ENFERMAGEM",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "MEDICO CLINICO": {
+    "CargoPadrao": "MEDICO (A) CLINICO",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "ENFERMEIRO(A)": {
+    "CargoPadrao": "ENFERMEIRO (A)",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "MEDICO ORTOPEDISTA": {
+    "CargoPadrao": "MEDICO (A) ORTOPEDISTA",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "MOTORISTA": {
+    "CargoPadrao": "MOTORISTA",
+    "Cooperativa": "SOLUCAO"
+  },
+  "MEDICO": {
+    "CargoPadrao": "MEDICO (A)",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "AUXILIAR DE FARMACIA": {
+    "CargoPadrao": "AUXILIAR DE FARMACIA",
+    "Cooperativa": "SOLUCAO"
+  },
+  "AUXILIAR DE SERVICOS GERAIS": {
+    "CargoPadrao": "AUXILIAR DE SERVICOS GERAIS",
+    "Cooperativa": "SOLUCAO"
+  },
+  "MEDICO(A)": {
+    "CargoPadrao": "MEDICO (A)",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "MEDICO CIRURGIAO": {
+    "CargoPadrao": "MEDICO (A) CIRURGIAO",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "MEDICO GINECOLOGISTA": {
+    "CargoPadrao": "MEDICO (A) GIINECOLOGISTA",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "AUXILIAR ADMINISTRATIVO": {
+    "CargoPadrao": "AUXILIAR ADMINISTRATIVO",
+    "Cooperativa": "SOLUCAO"
+  },
+  "AUXILIAR DE COZINHA": {
+    "CargoPadrao": "AUXILIAR DE COZINHA",
+    "Cooperativa": "SOLUCAO"
+  },
+  "ASSISTENTE SOCIAL": {
+    "CargoPadrao": "ASSISTENTE SOCIAL",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "COZINHEIRA": {
+    "CargoPadrao": "COZINHEIRO (A)",
+    "Cooperativa": "SOLUCAO"
+  },
+  "MEDICO PSIQUIATRA": {
+    "CargoPadrao": "MEDICO (A) PSIQUIATRA",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "MEDICO CARDIOLOGISTA": {
+    "CargoPadrao": "MEDICO (A) CARDIOLOGISTA",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "RECEPCIONISTA": {
+    "CargoPadrao": "RECEPCIONISTA",
+    "Cooperativa": "SOLUCAO"
+  },
+  "MEDICO DERMATOLOGISTA": {
+    "CargoPadrao": "MEDICO (A) DERMATOLOGISTA",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "VIGILANTE": {
+    "CargoPadrao": "VIGIA",
+    "Cooperativa": "SOLUCAO"
+  },
+  "MEDICO ULTRASSONOGRAFIA": {
+    "CargoPadrao": "MEDICO (A) ULTRASSONOGRAFIA",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "MEDICO VASCULAR": {
+    "CargoPadrao": "MEDICO (A) VASCULAR",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "MEDICO NEUROPEDIATRA": {
+    "CargoPadrao": "MEDICO (A) NEUROPEDIATRA",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "MEDICO PLANTONISTA": {
+    "CargoPadrao": "MEDICO (A) PLANTONISTA",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "TECNICO EM RADIOLOGIA": {
+    "CargoPadrao": "TECNICO EM RADIOLOGIA",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "MEDICA OTORRINOLARINGOLOGISTA": {
+    "CargoPadrao": "MEDICO (A) OTORRINOLARINGOLOGISTA",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "SUPERVISOR DE TRANSPORTE": {
+    "CargoPadrao": "SUPERVISOR DE TRANSPORTE",
+    "Cooperativa": "SOLUCAO"
+  },
+  "CONTADOR": {
+    "CargoPadrao": "CONTADOR",
+    "Cooperativa": "SOLUCAO"
+  },
+  "FARMACEUTICA": {
+    "CargoPadrao": "FARMACEUTICO",
+    "Cooperativa": "SOLUCAO"
+  },
+  "NUTRICIONISTA": {
+    "CargoPadrao": "NUTRICIONISTA",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "MEDICA PSIQUIATRA": {
+    "CargoPadrao": "MEDICO (A) PSIQUIATRA",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "TECNICO EM LABORATORIO": {
+    "CargoPadrao": "TECNICO EM LABORATORIO",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "MEDICO OFTALMOLOGISTA": {
+    "CargoPadrao": "MEDICO (A) OFTALMOLOGISTA",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "MEDICO ECO": {
+    "CargoPadrao": "MEDICO (A) ECO",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "MAQUEIRO": {
+    "CargoPadrao": "MAQUEIRO",
+    "Cooperativa": "SOLUCAO"
+  },
+  "BIOMEDICA": {
+    "CargoPadrao": "BIOMEDICO (A)",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "ASSISTENTE ADMINISTRATIVO": {
+    "CargoPadrao": "ASSISTENTE ADMINISTRATIVO",
+    "Cooperativa": "SOLUCAO"
+  },
+  "MEDICO REUMATO/CIRURGIAO": {
+    "CargoPadrao": "MEDICO (A) REUMATO/CIRURGIAO",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "MEDICO OTORRINO": {
+    "CargoPadrao": "MEDICO (A) OTORRINO",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "(SEM CARGO)": {
+    "CargoPadrao": "DES",
+    "Cooperativa": "DESCONHECIDO"
+  },
+  "AGENTE COMUNITARIO SAUDE": {
+    "CargoPadrao": "AGENTE COMUNITARIO DE SAUDE",
+    "Cooperativa": "SOLUCAO"
+  },
+  "AUXILIAR DE SAUDE BUCAL": {
+    "CargoPadrao": "AUXILIAR DE SAUDE BUCAL",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "PSICOLOGO": {
+    "CargoPadrao": "PSICOLOGO (A)",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "DENTISTA": {
+    "CargoPadrao": "DENTISTA",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "DIGITADOR": {
+    "CargoPadrao": "DIGITADOR",
+    "Cooperativa": "SOLUCAO"
+  },
+  "AGENTE DE ENDEMIAS": {
+    "CargoPadrao": "AGENTE DE ENDEMIAS",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "AGENTE ADMINISTRATIVO": {
+    "CargoPadrao": "ASSISTENTE ADMINISTRATIVO",
+    "Cooperativa": "SOLUCAO"
+  },
+  "BIOQUIMICO": {
+    "CargoPadrao": "BIOQUIMICO",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "FISIOTERAPEUTA": {
+    "CargoPadrao": "FISIOTERAPEUTA",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "AGENTE COMUNITARIO DE SAUDE": {
+    "CargoPadrao": "AGENTE COMUNITARIO DE SAUDE",
+    "Cooperativa": "SOLUCAO"
+  },
+  "ENFERMEIRO": {
+    "CargoPadrao": "ENFERMEIRO(A)",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "PSICOLOGA": {
+    "CargoPadrao": "PSICOLOGO (A)",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "CONDUTOR": {
+    "CargoPadrao": "MOTORISTA",
+    "Cooperativa": "SOLUCAO"
+  },
+  "EDUCADOR FISICO": {
+    "CargoPadrao": "EDUCADOR (A) FISICO",
+    "Cooperativa": "SOLUCAO"
+  },
+  "MEDICA": {
+    "CargoPadrao": "MEDICO (A)",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "ENFERMEIRO PSF": {
+    "CargoPadrao": "ENFERMEIRO (A) PSF",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "TECNICO EM ENFERMAGEM PSF": {
+    "CargoPadrao": "TECNICO EM ENFERMAGEM",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "FARMACEUTICO": {
+    "CargoPadrao": "FARMACEUTICO (A)",
+    "Cooperativa": "SOLUCAO"
+  },
+  "COORDENADOR PCD": {
+    "CargoPadrao": "COORDENADOR PCD",
+    "Cooperativa": "SOLUCAO"
+  },
+  "DENTISTA PSF": {
+    "CargoPadrao": "DENTISTA PSF",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "ENFERMEIRO PLANTONISTA": {
+    "CargoPadrao": "ENFERMEIRO (A) PLANTONISTA",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "ADMINISTRADORA": {
+    "CargoPadrao": "ADMINISTRADOR (A)",
+    "Cooperativa": "SOLUCAO"
+  },
+  "CONDUTOR DE AMBULANCIA": {
+    "CargoPadrao": "CONDUTOR",
+    "Cooperativa": "SOLUCAO"
+  },
+  "ARTE EDUCADORA": {
+    "CargoPadrao": "ARTE EDUCADORA",
+    "Cooperativa": "SOLUCAO"
+  },
+  "ENFERMEIRA": {
+    "CargoPadrao": "ENFERMEIRO (A)",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "COORDENADOR": {
+    "CargoPadrao": "COORDENADOR",
+    "Cooperativa": "SOLUCAO"
+  },
+  "COORDENACAO": {
+    "CargoPadrao": "COORDENACAO",
+    "Cooperativa": "SOLUCAO"
+  },
+  "FICHARIO": {
+    "CargoPadrao": "FICHARIO",
+    "Cooperativa": "SOLUCAO"
+  },
+  "ATENDENTE": {
+    "CargoPadrao": "ATENDENTE",
+    "Cooperativa": "SOLUCAO"
+  },
+  "MEDICO PSF": {
+    "CargoPadrao": "MEDICO (A) PSF",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "ODONTOLOGO": {
+    "CargoPadrao": "DENTISTA",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "TERAPEUTA OCUPACIONAL": {
+    "CargoPadrao": "TERAPEUTA OCUPACIONAL",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "CARDIOLOGISTA": {
+    "CargoPadrao": "MEDICO CARDIOLOGISTA",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "AUXILIAR EM SAUDE BUCAL": {
+    "CargoPadrao": "AUXILIAR DE SAUDE BUCAL",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "MEDICO NUTROLOGO": {
+    "CargoPadrao": "MEDICO (A) NUTROLOGO",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "SERVICOS GERAIS": {
+    "CargoPadrao": "SERVICOS GERAIS",
+    "Cooperativa": "SOLUCAO"
+  },
+  "MEDICO NEUROLOGISTA": {
+    "CargoPadrao": "MEDICO (A) NEUROLOGISTA",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "VIGIA": {
+    "CargoPadrao": "VIGIA",
+    "Cooperativa": "SOLUCAO"
+  },
+  "MEDICO (A)": {
+    "CargoPadrao": "MEDICO(A)",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "TEC. ENFERMAGEM": {
+    "CargoPadrao": "TECNICO EM ENFERMAGEM",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "TECNICO EM RAIO X": {
+    "CargoPadrao": "TECNICO EM RAIO X",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "ARTESA": {
+    "CargoPadrao": "ARTESAO",
+    "Cooperativa": "SOLUCAO"
+  },
+  "PEDAGOGO": {
+    "CargoPadrao": "PEDAGOGO",
+    "Cooperativa": "SOLUCAO"
+  },
+  "VETERINARIO": {
+    "CargoPadrao": "VETERINARIO",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "AGENTE ADM": {
+    "CargoPadrao": "AGENTE ADMINISTRATIVO",
+    "Cooperativa": "SOLUCAO"
+  },
+  "REDE PNI": {
+    "CargoPadrao": "REDE PNI",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "AUXILIAR DE SERVCOS GERAIS": {
+    "CargoPadrao": "AUXILIAR DE SERVICOS GERAIS",
+    "Cooperativa": "SOLUCAO"
+  },
+  "AUXLIAR DE SERVICOS GERAIS": {
+    "CargoPadrao": "AUXILIAR DE SERVICOS GERAIS",
+    "Cooperativa": "SOLUCAO"
+  },
+  "COPEIRA": {
+    "CargoPadrao": "COPEIRA",
+    "Cooperativa": "SOLUCAO"
+  },
+  "AGENTE COMUNITARIO DE EDEMIAS": {
+    "CargoPadrao": "AGENTE COMUNITARIO DE EDEMIAS",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "AUXILIAR DE LABORATORIO": {
+    "CargoPadrao": "AUXILIAR DE LABORATORIO",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "DIGITADORA": {
+    "CargoPadrao": "DIGITADOR",
+    "Cooperativa": "SOLUCAO"
+  },
+  "BOLSISTA": {
+    "CargoPadrao": "BOLSISTA",
+    "Cooperativa": "SOLUCAO"
+  },
+  "MEDICO PJ": {
+    "CargoPadrao": "MEDICO",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "TECNICO EM INFORMATICA": {
+    "CargoPadrao": "TECNICO EM INFORMATICA",
+    "Cooperativa": "SOLUCAO"
+  },
+  "COZINHEIRA - B": {
+    "CargoPadrao": "COZINHEIRA - B",
+    "Cooperativa": "SOLUCAO"
+  },
+  "MEDICO CAPS": {
+    "CargoPadrao": "MEDICO CAPS",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "MEDICO DIRE\u00C7AO": {
+    "CargoPadrao": "MEDICO DIRECAO",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "AGENTE DE SAUDE": {
+    "CargoPadrao": "AGENTE DE SAUDE",
+    "Cooperativa": "SOLUCAO"
+  },
+  "CASA DE APOIO": {
+    "CargoPadrao": "CASA DE APOIO",
+    "Cooperativa": "SOLUCAO"
+  },
+  "MARKETING": {
+    "CargoPadrao": "MARKETING",
+    "Cooperativa": "SOLUCAO"
+  },
+  "MOTORISTA DE AMBUL\u00C2NCIA": {
+    "CargoPadrao": "MOTORISTA",
+    "Cooperativa": "SOLUCAO"
+  },
+  "RECEPCIONISTA SECRETARIA": {
+    "CargoPadrao": "RECEPCIONISTA",
+    "Cooperativa": "SOLUCAO"
+  },
+  "PORTARIA": {
+    "CargoPadrao": "PORTEIRO (A)",
+    "Cooperativa": "SOLUCAO"
+  },
+  "COORDENADORA FISIOTERAPEUTA": {
+    "CargoPadrao": "COORDENADOR FISIOTERAPEUTA",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "SERVI\u00C7O DE MANUTEN\u00C7\u00C3O": {
+    "CargoPadrao": "SERVICO DE MANUTENCAO",
+    "Cooperativa": "SOLUCAO"
+  },
+  "REGULA\u00C7\u00C3O": {
+    "CargoPadrao": "REGULACAO",
+    "Cooperativa": "SOLUCAO"
+  },
+  "M\u00C9DICO PLANTONISTA": {
+    "CargoPadrao": "MEDICO PLANTONISTA",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "BIOMEDICO": {
+    "CargoPadrao": "BIOMEDICO",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "AUX. SERVI\u00C7OS GERAIS": {
+    "CargoPadrao": "AUXILIARA DE SERVICOS GERAIS",
+    "Cooperativa": "SOLUCAO"
+  },
+  "TEC RAIO X": {
+    "CargoPadrao": "TECNICO DE RAIO X",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "BIOM\u00C9DICO": {
+    "CargoPadrao": "BIOMEDICA",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "AUXILIAR LIMPEZA - B": {
+    "CargoPadrao": "AUXILIAR DE LIMPEZA - B",
+    "Cooperativa": "SOLUCAO"
+  },
+  "RECEPCIONISTA HOSPITAL": {
+    "CargoPadrao": "RECEPCIONISTA",
+    "Cooperativa": "SOLUCAO"
+  },
+  "SERVI\u00C7OS GERAIS": {
+    "CargoPadrao": "SERVICOS GERAIS",
+    "Cooperativa": "SOLUCAO"
+  },
+  "MEDICO REGULADOR": {
+    "CargoPadrao": "MEDICO REGULADOR",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "DISPENSA HOSPITAL": {
+    "CargoPadrao": "DISPENSA HOSPITALAR",
+    "Cooperativa": "SOLUCAO"
+  },
+  "RECPICIONISTA": {
+    "CargoPadrao": "RECEPCIONISTA",
+    "Cooperativa": "SOLUCAO"
+  },
+  "REGULACAO": {
+    "CargoPadrao": "REGULACAO",
+    "Cooperativa": "SOLUCAO"
+  },
+  "MEDICA PJ": {
+    "CargoPadrao": "MEDICA PJ",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "MEDICA PLANTONISTA": {
+    "CargoPadrao": "MEDICO PLANTONISTA",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "FONOAUDIOLOGA": {
+    "CargoPadrao": "FONOAUDIOLOGA",
+    "Cooperativa": "MAIS_SAUDE"
+  },
+  "EDUCADOR F\u00CDSICO": {
+    "CargoPadrao": "EDUCADOR FISICO",
+    "Cooperativa": "SOLUCAO"
+  },
+  "COORDENADOR DE TRANSPORTES": {
+    "CargoPadrao": "COORDENADOR DE TRANSPORTE",
+    "Cooperativa": "SOLUCAO"
+  },
+  "AUXILIAR DE SERVI\u00C7OS GERAIS": {
+    "CargoPadrao": "AUXILIAR DE SERVICOS GERAIS",
+    "Cooperativa": "SOLUCAO"
+  },
+  "AUXILIAR DE LIMPEZA - B": {
+    "CargoPadrao": "AUXILIAR DE SERVICOS GERAIS",
+    "Cooperativa": "SOLUCAO"
+  },
+  "MOTORISTA ODONTOMOVEL": {
+    "CargoPadrao": "MOTORISTA",
+    "Cooperativa": "SOLUCAO"
+  },
+  "MEDICO OBSTETRA": {
+    "CargoPadrao": "MEDICO OBSTETRA",
+    "Cooperativa": "MAIS_SAUDE"
+  }
+}

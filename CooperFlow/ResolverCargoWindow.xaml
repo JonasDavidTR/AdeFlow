@@ -1,0 +1,105 @@
+﻿<Window x:Class="CooperFlow.ResolverCargoWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Resolver Cargos"
+        Height="600"
+        Width="1000"
+        WindowStartupLocation="CenterOwner"
+        ResizeMode="NoResize">
+
+    <Grid Margin="20">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock
+            Text="Resolver cargos encontrados"
+            FontSize="24"
+            FontWeight="Bold"/>
+
+        <TextBlock
+            Grid.Row="1"
+            Margin="0,8,0,20"
+            Text="Revise os cargos abaixo antes de continuar."
+            Foreground="Gray"/>
+
+        <DataGrid
+            x:Name="dgCargos"
+            Grid.Row="2"
+            AutoGenerateColumns="False"
+            CanUserAddRows="False"
+            HeadersVisibility="Column">
+
+            <DataGrid.Columns>
+
+                <DataGridTextColumn
+                    Header="Cargo Encontrado"
+                    Binding="{Binding CargoOriginal}"
+                    IsReadOnly="True"
+                    Width="220"/>
+
+                <DataGridTextColumn
+                    Header="Sugestão"
+                    Binding="{Binding CargoSugerido}"
+                    IsReadOnly="True"
+                    Width="220"/>
+
+                <DataGridTextColumn
+                    Header="%"
+                    Binding="{Binding Porcentagem}"
+                    IsReadOnly="True"
+                    Width="60"/>
+
+                <DataGridTextColumn
+                    Header="Cargo Padrão"
+                    Binding="{Binding CargoPadrao}"
+                    Width="250"/>
+
+                <DataGridComboBoxColumn
+                    Header="Cooperativa"
+                    SelectedItemBinding="{Binding CooperativaSelecionada}"
+                    Width="150">
+
+                    <DataGridComboBoxColumn.ItemsSource>
+                        <x:Array Type="{x:Type sys:String}"
+                                 xmlns:sys="clr-namespace:System;assembly=mscorlib">
+                            <sys:String>SOLUCAO</sys:String>
+                            <sys:String>MAIS_SAUDE</sys:String>
+                            <sys:String>DESCONHECIDO</sys:String>
+                        </x:Array>
+                    </DataGridComboBoxColumn.ItemsSource>
+
+                </DataGridComboBoxColumn>
+
+            </DataGrid.Columns>
+
+        </DataGrid>
+
+        <StackPanel
+            Grid.Row="3"
+            Orientation="Horizontal"
+            HorizontalAlignment="Right"
+            Margin="0,20,0,0">
+
+            <Button
+                Width="120"
+                Height="35"
+                Margin="0,0,10,0"
+                Content="Cancelar"
+                Click="BtnCancelar_Click"/>
+
+            <Button
+                Width="120"
+                Height="35"
+                Content="Salvar"
+                Click="BtnSalvar_Click"/>
+
+        </StackPanel>
+
+    </Grid>
+
+</Window>
