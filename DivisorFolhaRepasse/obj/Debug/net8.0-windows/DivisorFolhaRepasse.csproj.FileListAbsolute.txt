@@ -32,3 +32,38 @@ C:\Program Payroll\DivisorFolhaRepasse\bin\Debug\net8.0-windows\ICSharpCode.Shar
 C:\Program Payroll\DivisorFolhaRepasse\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
 C:\Program Payroll\DivisorFolhaRepasse\bin\Debug\net8.0-windows\SixLabors.ImageSharp.dll
 C:\Program Payroll\DivisorFolhaRepasse\bin\Debug\net8.0-windows\de\PdfSharpCore.resources.dll
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\bin\Debug\net8.0-windows\DivisorFolhaRepasse.exe
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\bin\Debug\net8.0-windows\DivisorFolhaRepasse.deps.json
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\bin\Debug\net8.0-windows\DivisorFolhaRepasse.runtimeconfig.json
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\bin\Debug\net8.0-windows\DivisorFolhaRepasse.dll
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\bin\Debug\net8.0-windows\DivisorFolhaRepasse.pdb
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\bin\Debug\net8.0-windows\UglyToad.PdfPig.Core.dll
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\bin\Debug\net8.0-windows\UglyToad.PdfPig.DocumentLayoutAnalysis.dll
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\bin\Debug\net8.0-windows\UglyToad.PdfPig.Fonts.dll
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\bin\Debug\net8.0-windows\UglyToad.PdfPig.Package.dll
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\bin\Debug\net8.0-windows\UglyToad.PdfPig.Tokenization.dll
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\bin\Debug\net8.0-windows\UglyToad.PdfPig.Tokens.dll
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\bin\Debug\net8.0-windows\UglyToad.PdfPig.dll
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\bin\Debug\net8.0-windows\PdfSharpCore.dll
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\bin\Debug\net8.0-windows\ICSharpCode.SharpZipLib.dll
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\bin\Debug\net8.0-windows\SixLabors.ImageSharp.dll
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\bin\Debug\net8.0-windows\de\PdfSharpCore.resources.dll
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\obj\Debug\net8.0-windows\DivisorFolhaRepasse.csproj.AssemblyReference.cache
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\obj\Debug\net8.0-windows\App.g.cs
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\obj\Debug\net8.0-windows\DivisorFolhaRepasse_MarkupCompile.cache
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\obj\Debug\net8.0-windows\DivisorFolhaRepasse_MarkupCompile.lref
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\obj\Debug\net8.0-windows\DivisorFolhaRepasse.g.resources
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\obj\Debug\net8.0-windows\DivisorFolhaRepasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\obj\Debug\net8.0-windows\DivisorFolhaRepasse.AssemblyInfoInputs.cache
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\obj\Debug\net8.0-windows\DivisorFolhaRepasse.AssemblyInfo.cs
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\obj\Debug\net8.0-windows\DivisorFolhaRepasse.csproj.CoreCompileInputs.cache
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\obj\Debug\net8.0-windows\DivisorF.DA890428.Up2Date
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\obj\Debug\net8.0-windows\DivisorFolhaRepasse.dll
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\obj\Debug\net8.0-windows\refint\DivisorFolhaRepasse.dll
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\obj\Debug\net8.0-windows\DivisorFolhaRepasse.pdb
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\obj\Debug\net8.0-windows\DivisorFolhaRepasse.genruntimeconfig.cache
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\obj\Debug\net8.0-windows\ref\DivisorFolhaRepasse.dll
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\obj\Debug\net8.0-windows\DivisorFolhaRepasse_Content.g.cs

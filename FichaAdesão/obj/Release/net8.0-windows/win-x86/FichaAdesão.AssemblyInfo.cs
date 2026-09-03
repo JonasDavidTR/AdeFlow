@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FichaAdesão")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e56ea8f7ecbb12fb469627e4bc25fdcc52548da3")]
 [assembly: System.Reflection.AssemblyProductAttribute("FichaAdesão")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FichaAdesão")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

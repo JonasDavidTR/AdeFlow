@@ -79,3 +79,4 @@ C:\Program Payroll\FichaAdesão\obj\Release\net8.0-windows\refint\FichaAdesão.d
 C:\Program Payroll\FichaAdesão\obj\Release\net8.0-windows\FichaAdesão.pdb
 C:\Program Payroll\FichaAdesão\obj\Release\net8.0-windows\FichaAdesão.genruntimeconfig.cache
 C:\Program Payroll\FichaAdesão\obj\Release\net8.0-windows\ref\FichaAdesão.dll
+C:\Program Payroll\FichaAdesão\obj\Release\net8.0-windows\FichaAdesão.sourcelink.json

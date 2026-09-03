@@ -1,11 +1,11 @@
-﻿<Window x:Class="DivisorFolhaRepasse.MainWindow"
+﻿<Window x:Class="DivisorComprovanteRepasse.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:DivisorFolhaRepasse"
+        xmlns:local="clr-namespace:DivisorComprovanteRepasse"
         mc:Ignorable="d"
-        Title="Divisor de Folha de Repasse"
+        Title="Divisor de Comprovante de Repasse"
         Height="600"
         Width="900"
         WindowStartupLocation="CenterScreen">
@@ -19,12 +19,28 @@
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
 
-        <!-- Título -->
-        <TextBlock Grid.Row="0"
-                   Text="Divisor de Folha de Repasse"
-                   FontSize="26"
-                   FontWeight="Bold"
-                   Margin="0,0,0,20"/>
+        <!-- Título e Manual -->
+        <Grid Grid.Row="0"
+            Margin="0,0,0,20">
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="150"/>
+            </Grid.ColumnDefinitions>
+
+            <TextBlock Grid.Column="0"
+               Text="Divisor de Comprovante de Repasse"
+               FontSize="26"
+               FontWeight="Bold"
+               VerticalAlignment="Center"/>
+
+            <Button x:Name="BtnManual"
+            Grid.Column="1"
+            Content="📖 MANUAL DE USO"
+            Height="35"
+            FontWeight="Bold"
+            Click="BtnManual_Click"/>
+        </Grid>
 
         <!-- Seleção do PDF -->
         <Grid Grid.Row="1"
@@ -47,28 +63,41 @@
                     Content="Selecionar PDF"
                     Height="35"
                     Click="BtnSelecionarPdf_Click"/>
+
         </Grid>
 
-        <!-- Botão Ler -->
-        <Button x:Name="BtnLerPdf"
-                Grid.Row="2"
-                Content="LER PDF"
-                Width="180"
-                Height="40"
-                HorizontalAlignment="Left"
-                FontWeight="Bold"
-                Click="BtnLerPdf_Click"/>
+        <!-- Botões de processamento -->
+        <StackPanel Grid.Row="2"
+            Orientation="Horizontal"
+            HorizontalAlignment="Left">
 
-        <Button x:Name="BtnDividirPdf"
-            Grid.Row="2"
+            <Button x:Name="BtnLerPdf"
+            Content="LER PDF"
+            Width="180"
+            Height="40"
+            FontWeight="Bold"
+            Margin="0,0,20,0"
+            Click="BtnLerPdf_Click"/>
+
+            <Button x:Name="BtnDividirPdf"
             Content="DIVIDIR PDF"
             Width="180"
             Height="40"
-            HorizontalAlignment="Left"
-            Margin="200,0,0,0"
             FontWeight="Bold"
+            Margin="0,0,20,0"
             IsEnabled="False"
             Click="BtnDividirPdf_Click"/>
+
+            <Button x:Name="BtnAbrirPastaPdf"
+            Content="ABRIR PASTA"
+            Width="150"
+            Height="40"
+            FontWeight="Bold"
+            IsEnabled="False"
+            Click="BtnAbrirPasta_Click"/>
+
+        </StackPanel>
+
 
 
 

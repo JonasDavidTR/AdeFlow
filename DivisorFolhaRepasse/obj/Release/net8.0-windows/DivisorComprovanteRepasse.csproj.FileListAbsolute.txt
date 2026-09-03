@@ -1,0 +1,71 @@
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\bin\Release\net8.0-windows\DivisorComprovanteRepasse.exe
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\bin\Release\net8.0-windows\DivisorComprovanteRepasse.deps.json
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\bin\Release\net8.0-windows\DivisorComprovanteRepasse.runtimeconfig.json
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\bin\Release\net8.0-windows\DivisorComprovanteRepasse.dll
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\bin\Release\net8.0-windows\DivisorComprovanteRepasse.pdb
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\bin\Release\net8.0-windows\UglyToad.PdfPig.Core.dll
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\bin\Release\net8.0-windows\UglyToad.PdfPig.DocumentLayoutAnalysis.dll
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\bin\Release\net8.0-windows\UglyToad.PdfPig.Fonts.dll
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\bin\Release\net8.0-windows\UglyToad.PdfPig.Package.dll
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\bin\Release\net8.0-windows\UglyToad.PdfPig.Tokenization.dll
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\bin\Release\net8.0-windows\UglyToad.PdfPig.Tokens.dll
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\bin\Release\net8.0-windows\UglyToad.PdfPig.dll
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\bin\Release\net8.0-windows\PdfSharpCore.dll
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\bin\Release\net8.0-windows\ICSharpCode.SharpZipLib.dll
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\bin\Release\net8.0-windows\SixLabors.Fonts.dll
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\bin\Release\net8.0-windows\SixLabors.ImageSharp.dll
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\bin\Release\net8.0-windows\de\PdfSharpCore.resources.dll
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\obj\Release\net8.0-windows\DivisorComprovanteRepasse.csproj.AssemblyReference.cache
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\obj\Release\net8.0-windows\MainWindow.g.cs
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\obj\Release\net8.0-windows\App.g.cs
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\obj\Release\net8.0-windows\DivisorComprovanteRepasse_Content.g.cs
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\obj\Release\net8.0-windows\DivisorComprovanteRepasse_MarkupCompile.cache
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\obj\Release\net8.0-windows\DivisorComprovanteRepasse_MarkupCompile.lref
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\obj\Release\net8.0-windows\MainWindow.baml
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\obj\Release\net8.0-windows\DivisorComprovanteRepasse.g.resources
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\obj\Release\net8.0-windows\DivisorComprovanteRepasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\obj\Release\net8.0-windows\DivisorComprovanteRepasse.AssemblyInfoInputs.cache
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\obj\Release\net8.0-windows\DivisorComprovanteRepasse.AssemblyInfo.cs
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\obj\Release\net8.0-windows\DivisorComprovanteRepasse.csproj.CoreCompileInputs.cache
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\obj\Release\net8.0-windows\DivisorC.63684D0F.Up2Date
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\obj\Release\net8.0-windows\DivisorComprovanteRepasse.dll
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\obj\Release\net8.0-windows\refint\DivisorComprovanteRepasse.dll
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\obj\Release\net8.0-windows\DivisorComprovanteRepasse.pdb
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\obj\Release\net8.0-windows\DivisorComprovanteRepasse.genruntimeconfig.cache
+C:\Sistema folha de pagamento\DivisorFolhaRepasse\obj\Release\net8.0-windows\ref\DivisorComprovanteRepasse.dll
+C:\Program Payroll\DivisorFolhaRepasse\bin\Release\net8.0-windows\DivisorComprovanteRepasse.exe
+C:\Program Payroll\DivisorFolhaRepasse\bin\Release\net8.0-windows\DivisorComprovanteRepasse.deps.json
+C:\Program Payroll\DivisorFolhaRepasse\bin\Release\net8.0-windows\DivisorComprovanteRepasse.runtimeconfig.json
+C:\Program Payroll\DivisorFolhaRepasse\bin\Release\net8.0-windows\DivisorComprovanteRepasse.dll
+C:\Program Payroll\DivisorFolhaRepasse\bin\Release\net8.0-windows\DivisorComprovanteRepasse.pdb
+C:\Program Payroll\DivisorFolhaRepasse\bin\Release\net8.0-windows\UglyToad.PdfPig.Core.dll
+C:\Program Payroll\DivisorFolhaRepasse\bin\Release\net8.0-windows\UglyToad.PdfPig.DocumentLayoutAnalysis.dll
+C:\Program Payroll\DivisorFolhaRepasse\bin\Release\net8.0-windows\UglyToad.PdfPig.Fonts.dll
+C:\Program Payroll\DivisorFolhaRepasse\bin\Release\net8.0-windows\UglyToad.PdfPig.Package.dll
+C:\Program Payroll\DivisorFolhaRepasse\bin\Release\net8.0-windows\UglyToad.PdfPig.Tokenization.dll
+C:\Program Payroll\DivisorFolhaRepasse\bin\Release\net8.0-windows\UglyToad.PdfPig.Tokens.dll
+C:\Program Payroll\DivisorFolhaRepasse\bin\Release\net8.0-windows\UglyToad.PdfPig.dll
+C:\Program Payroll\DivisorFolhaRepasse\bin\Release\net8.0-windows\PdfSharpCore.dll
+C:\Program Payroll\DivisorFolhaRepasse\bin\Release\net8.0-windows\ICSharpCode.SharpZipLib.dll
+C:\Program Payroll\DivisorFolhaRepasse\bin\Release\net8.0-windows\SixLabors.Fonts.dll
+C:\Program Payroll\DivisorFolhaRepasse\bin\Release\net8.0-windows\SixLabors.ImageSharp.dll
+C:\Program Payroll\DivisorFolhaRepasse\bin\Release\net8.0-windows\de\PdfSharpCore.resources.dll
+C:\Program Payroll\DivisorFolhaRepasse\obj\Release\net8.0-windows\DivisorComprovanteRepasse.csproj.AssemblyReference.cache
+C:\Program Payroll\DivisorFolhaRepasse\obj\Release\net8.0-windows\MainWindow.g.cs
+C:\Program Payroll\DivisorFolhaRepasse\obj\Release\net8.0-windows\App.g.cs
+C:\Program Payroll\DivisorFolhaRepasse\obj\Release\net8.0-windows\DivisorComprovanteRepasse_Content.g.cs
+C:\Program Payroll\DivisorFolhaRepasse\obj\Release\net8.0-windows\DivisorComprovanteRepasse_MarkupCompile.cache
+C:\Program Payroll\DivisorFolhaRepasse\obj\Release\net8.0-windows\DivisorComprovanteRepasse_MarkupCompile.lref
+C:\Program Payroll\DivisorFolhaRepasse\obj\Release\net8.0-windows\MainWindow.baml
+C:\Program Payroll\DivisorFolhaRepasse\obj\Release\net8.0-windows\DivisorComprovanteRepasse.g.resources
+C:\Program Payroll\DivisorFolhaRepasse\obj\Release\net8.0-windows\DivisorComprovanteRepasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Payroll\DivisorFolhaRepasse\obj\Release\net8.0-windows\DivisorComprovanteRepasse.AssemblyInfoInputs.cache
+C:\Program Payroll\DivisorFolhaRepasse\obj\Release\net8.0-windows\DivisorComprovanteRepasse.AssemblyInfo.cs
+C:\Program Payroll\DivisorFolhaRepasse\obj\Release\net8.0-windows\DivisorComprovanteRepasse.csproj.CoreCompileInputs.cache
+C:\Program Payroll\DivisorFolhaRepasse\obj\Release\net8.0-windows\DivisorComprovanteRepasse.sourcelink.json
+C:\Program Payroll\DivisorFolhaRepasse\obj\Release\net8.0-windows\DivisorC.63684D0F.Up2Date
+C:\Program Payroll\DivisorFolhaRepasse\obj\Release\net8.0-windows\DivisorComprovanteRepasse.dll
+C:\Program Payroll\DivisorFolhaRepasse\obj\Release\net8.0-windows\refint\DivisorComprovanteRepasse.dll
+C:\Program Payroll\DivisorFolhaRepasse\obj\Release\net8.0-windows\DivisorComprovanteRepasse.pdb
+C:\Program Payroll\DivisorFolhaRepasse\obj\Release\net8.0-windows\DivisorComprovanteRepasse.genruntimeconfig.cache
+C:\Program Payroll\DivisorFolhaRepasse\obj\Release\net8.0-windows\ref\DivisorComprovanteRepasse.dll

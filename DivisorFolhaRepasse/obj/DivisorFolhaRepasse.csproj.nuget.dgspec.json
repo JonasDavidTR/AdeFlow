@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Program Payroll\\DivisorFolhaRepasse\\DivisorFolhaRepasse.csproj": {}
+    "C:\\Sistema folha de pagamento\\DivisorFolhaRepasse\\DivisorFolhaRepasse.csproj": {}
   },
   "projects": {
-    "C:\\Program Payroll\\DivisorFolhaRepasse\\DivisorFolhaRepasse.csproj": {
+    "C:\\Sistema folha de pagamento\\DivisorFolhaRepasse\\DivisorFolhaRepasse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Program Payroll\\DivisorFolhaRepasse\\DivisorFolhaRepasse.csproj",
+        "projectUniqueName": "C:\\Sistema folha de pagamento\\DivisorFolhaRepasse\\DivisorFolhaRepasse.csproj",
         "projectName": "DivisorFolhaRepasse",
-        "projectPath": "C:\\Program Payroll\\DivisorFolhaRepasse\\DivisorFolhaRepasse.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Program Payroll\\DivisorFolhaRepasse\\obj\\",
+        "projectPath": "C:\\Sistema folha de pagamento\\DivisorFolhaRepasse\\DivisorFolhaRepasse.csproj",
+        "packagesPath": "C:\\Users\\jonas\\.nuget\\packages\\",
+        "outputPath": "C:\\Sistema folha de pagamento\\DivisorFolhaRepasse\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jonas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

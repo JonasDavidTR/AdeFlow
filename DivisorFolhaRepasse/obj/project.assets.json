@@ -331,9 +331,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Program Payroll\\DivisorFolhaRepasse\\DivisorFolhaRepasse.csproj",
-      "projectName": "DivisorFolhaRepasse",
-      "projectPath": "C:\\Program Payroll\\DivisorFolhaRepasse\\DivisorFolhaRepasse.csproj",
+      "projectUniqueName": "C:\\Program Payroll\\DivisorFolhaRepasse\\DivisorComprovanteRepasse.csproj",
+      "projectName": "DivisorComprovanteRepasse",
+      "projectPath": "C:\\Program Payroll\\DivisorFolhaRepasse\\DivisorComprovanteRepasse.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
       "outputPath": "C:\\Program Payroll\\DivisorFolhaRepasse\\obj\\",
       "projectStyle": "PackageReference",

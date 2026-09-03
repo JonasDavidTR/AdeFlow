@@ -120,3 +120,4 @@ C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\obj\Debug\net8.0-win
 C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\obj\Debug\net8.0-windows\FichaCadastro.pdb
 C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\obj\Debug\net8.0-windows\FichaCadastro.genruntimeconfig.cache
 C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\obj\Debug\net8.0-windows\ref\FichaCadastro.dll
+C:\Program Payroll\FichaAdesao Componentes\Gerador de Ficha\obj\Debug\net8.0-windows\FichaCadastro.sourcelink.json

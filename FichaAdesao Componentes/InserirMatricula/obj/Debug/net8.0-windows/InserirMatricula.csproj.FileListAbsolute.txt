@@ -127,3 +127,4 @@ C:\Program Payroll\FichaAdesao Componentes\InserirMatricula\obj\Debug\net8.0-win
 C:\Program Payroll\FichaAdesao Componentes\InserirMatricula\obj\Debug\net8.0-windows\InserirM.17B9F7A5.Up2Date
 C:\Program Payroll\FichaAdesao Componentes\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula.genruntimeconfig.cache
 C:\Program Payroll\FichaAdesao Componentes\InserirMatricula\obj\Debug\net8.0-windows\ref\InserirMatricula.dll
+C:\Program Payroll\FichaAdesao Componentes\InserirMatricula\obj\Debug\net8.0-windows\InserirMatricula.sourcelink.json

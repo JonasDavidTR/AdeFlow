@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Program Payroll\\DivisorFolhaRepasse\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2F3A6A0-B8C0-7D28-BDD6-694E8C5ACDB3}|DivisorFolhaRepasse.csproj|c:\\program payroll\\divisorfolharepasse\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2F3A6A0-B8C0-7D28-BDD6-694E8C5ACDB3}|DivisorFolhaRepasse.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E68D9CC-D379-6CDB-C50C-398E67002FD5}|DivisorComprovanteRepasse.csproj|c:\\program payroll\\divisorfolharepasse\\services\\pdfreaderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E68D9CC-D379-6CDB-C50C-398E67002FD5}|DivisorComprovanteRepasse.csproj|solutionrelative:services\\pdfreaderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2F3A6A0-B8C0-7D28-BDD6-694E8C5ACDB3}|DivisorFolhaRepasse.csproj|c:\\program payroll\\divisorfolharepasse\\services\\pdfsplitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2F3A6A0-B8C0-7D28-BDD6-694E8C5ACDB3}|DivisorFolhaRepasse.csproj|solutionrelative:services\\pdfsplitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E68D9CC-D379-6CDB-C50C-398E67002FD5}|DivisorComprovanteRepasse.csproj|c:\\program payroll\\divisorfolharepasse\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E68D9CC-D379-6CDB-C50C-398E67002FD5}|DivisorComprovanteRepasse.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2F3A6A0-B8C0-7D28-BDD6-694E8C5ACDB3}|DivisorFolhaRepasse.csproj|c:\\program payroll\\divisorfolharepasse\\services\\pdfreaderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2F3A6A0-B8C0-7D28-BDD6-694E8C5ACDB3}|DivisorFolhaRepasse.csproj|solutionrelative:services\\pdfreaderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E68D9CC-D379-6CDB-C50C-398E67002FD5}|DivisorComprovanteRepasse.csproj|c:\\program payroll\\divisorfolharepasse\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E68D9CC-D379-6CDB-C50C-398E67002FD5}|DivisorComprovanteRepasse.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2F3A6A0-B8C0-7D28-BDD6-694E8C5ACDB3}|DivisorFolhaRepasse.csproj|c:\\program payroll\\divisorfolharepasse\\models\\repassepagina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2F3A6A0-B8C0-7D28-BDD6-694E8C5ACDB3}|DivisorFolhaRepasse.csproj|solutionrelative:models\\repassepagina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E68D9CC-D379-6CDB-C50C-398E67002FD5}|DivisorComprovanteRepasse.csproj|c:\\program payroll\\divisorfolharepasse\\divisorcomprovanterepasse.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5E68D9CC-D379-6CDB-C50C-398E67002FD5}|DivisorComprovanteRepasse.csproj|solutionrelative:divisorcomprovanterepasse.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2F3A6A0-B8C0-7D28-BDD6-694E8C5ACDB3}|DivisorFolhaRepasse.csproj|c:\\program payroll\\divisorfolharepasse\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B2F3A6A0-B8C0-7D28-BDD6-694E8C5ACDB3}|DivisorFolhaRepasse.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{5E68D9CC-D379-6CDB-C50C-398E67002FD5}|DivisorComprovanteRepasse.csproj|c:\\program payroll\\divisorfolharepasse\\divisorcomprovanterepasse.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5E68D9CC-D379-6CDB-C50C-398E67002FD5}|DivisorComprovanteRepasse.csproj|solutionrelative:divisorcomprovanterepasse.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E68D9CC-D379-6CDB-C50C-398E67002FD5}|DivisorComprovanteRepasse.csproj|c:\\program payroll\\divisorfolharepasse\\services\\pdfsplitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E68D9CC-D379-6CDB-C50C-398E67002FD5}|DivisorComprovanteRepasse.csproj|solutionrelative:services\\pdfsplitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E68D9CC-D379-6CDB-C50C-398E67002FD5}|DivisorComprovanteRepasse.csproj|c:\\program payroll\\divisorfolharepasse\\models\\repassepagina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E68D9CC-D379-6CDB-C50C-398E67002FD5}|DivisorComprovanteRepasse.csproj|solutionrelative:models\\repassepagina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E68D9CC-D379-6CDB-C50C-398E67002FD5}|DivisorComprovanteRepasse.csproj|c:\\program payroll\\divisorfolharepasse\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5E68D9CC-D379-6CDB-C50C-398E67002FD5}|DivisorComprovanteRepasse.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,60 +46,97 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Program Payroll\\DivisorFolhaRepasse\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Program Payroll\\DivisorFolhaRepasse\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T21:36:26.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DivisorComprovanteRepasse.csproj",
+              "DocumentMoniker": "C:\\Program Payroll\\DivisorFolhaRepasse\\DivisorComprovanteRepasse.csproj",
+              "RelativeDocumentMoniker": "DivisorComprovanteRepasse.csproj",
+              "ToolTip": "C:\\Program Payroll\\DivisorFolhaRepasse\\DivisorComprovanteRepasse.csproj",
+              "RelativeToolTip": "DivisorComprovanteRepasse.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-22T21:36:36.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DivisorComprovanteRepasse",
+              "DocumentMoniker": "C:\\Program Payroll\\DivisorFolhaRepasse\\DivisorComprovanteRepasse.csproj",
+              "RelativeDocumentMoniker": "DivisorComprovanteRepasse.csproj",
+              "ToolTip": "C:\\Program Payroll\\DivisorFolhaRepasse\\DivisorComprovanteRepasse.csproj",
+              "RelativeToolTip": "DivisorComprovanteRepasse.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-22T21:36:03.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "PdfSplitService.cs",
               "DocumentMoniker": "C:\\Program Payroll\\DivisorFolhaRepasse\\Services\\PdfSplitService.cs",
               "RelativeDocumentMoniker": "Services\\PdfSplitService.cs",
               "ToolTip": "C:\\Program Payroll\\DivisorFolhaRepasse\\Services\\PdfSplitService.cs",
               "RelativeToolTip": "Services\\PdfSplitService.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAgwEcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-21T16:23:56.884Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "PdfReaderService.cs",
               "DocumentMoniker": "C:\\Program Payroll\\DivisorFolhaRepasse\\Services\\PdfReaderService.cs",
               "RelativeDocumentMoniker": "Services\\PdfReaderService.cs",
               "ToolTip": "C:\\Program Payroll\\DivisorFolhaRepasse\\Services\\PdfReaderService.cs",
               "RelativeToolTip": "Services\\PdfReaderService.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAmwE8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T14:27:37.356Z"
+              "WhenOpened": "2026-08-21T14:27:37.356Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "RepassePagina.cs",
               "DocumentMoniker": "C:\\Program Payroll\\DivisorFolhaRepasse\\Models\\RepassePagina.cs",
               "RelativeDocumentMoniker": "Models\\RepassePagina.cs",
               "ToolTip": "C:\\Program Payroll\\DivisorFolhaRepasse\\Models\\RepassePagina.cs",
               "RelativeToolTip": "Models\\RepassePagina.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-21T14:19:29.248Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Program Payroll\\DivisorFolhaRepasse\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
               "ToolTip": "C:\\Program Payroll\\DivisorFolhaRepasse\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-08-21T14:11:25.663Z"
+              "WhenOpened": "2026-08-21T14:11:25.663Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Program Payroll\\DivisorFolhaRepasse\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\Program Payroll\\DivisorFolhaRepasse\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAcwDQAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACUBAAAAAAAAAAAAwDkBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-21T14:11:22.542Z",
               "EditorCaption": ""

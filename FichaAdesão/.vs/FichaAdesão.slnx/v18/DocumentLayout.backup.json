@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Program Payroll\\FichaAdes\u00E3o\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A025BBEC-9696-CDAB-7E9C-82054675BFBE}|FichaAdes\u00E3o.csproj|c:\\program payroll\\fichaades\u00E3o\\fichaades\u00E3o.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A025BBEC-9696-CDAB-7E9C-82054675BFBE}|FichaAdes\u00E3o.csproj|solutionrelative:fichaades\u00E3o.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A025BBEC-9696-CDAB-7E9C-82054675BFBE}|FichaAdes\u00E3o.csproj|c:\\program payroll\\fichaades\u00E3o\\fichaades\u00E3o.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A025BBEC-9696-CDAB-7E9C-82054675BFBE}|FichaAdes\u00E3o.csproj|solutionrelative:fichaades\u00E3o.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FichaAdes\u00E3o",
+              "DocumentMoniker": "C:\\Program Payroll\\FichaAdes\u00E3o\\FichaAdes\u00E3o.csproj",
+              "RelativeDocumentMoniker": "FichaAdes\u00E3o.csproj",
+              "ToolTip": "C:\\Program Payroll\\FichaAdes\u00E3o\\FichaAdes\u00E3o.csproj",
+              "RelativeToolTip": "FichaAdes\u00E3o.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-02T16:06:59.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FichaAdes\u00E3o",
+              "DocumentMoniker": "C:\\Program Payroll\\FichaAdes\u00E3o\\FichaAdes\u00E3o.csproj",
+              "RelativeDocumentMoniker": "FichaAdes\u00E3o.csproj",
+              "ToolTip": "C:\\Program Payroll\\FichaAdes\u00E3o\\FichaAdes\u00E3o.csproj",
+              "RelativeToolTip": "FichaAdes\u00E3o.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-02T16:21:15.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
